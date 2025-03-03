@@ -67,7 +67,7 @@ nvm use 18
 
 ---
 # 5. Miniconda env
-    • Miniconda - https://docs.anaconda.com/miniconda/
+    • Miniconda - https://www.anaconda.com/docs/getting-started/miniconda/main
     • Repo - https://repo.anaconda.com/miniconda/
     • Edit the system environment variables - 
         ○ C:\Users\namju\miniconda3
@@ -94,8 +94,9 @@ conda create -n tf-gpu-2024 python=3.8
 conda activate tf-gpu-2024
 nvidia-smi
 conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1
-conda install tensorflow-gpu OR
-pip install tensorflow-gpu==2.5.0
+conda install tensorflow-gpu 
+OR
+pip install tensorflow-gpu==2.5.0 
 ```
 
 Case 2
@@ -197,10 +198,13 @@ pip install opencv-python
 
 conda install -c anaconda scikit-learn
 conda install -c conda-forge scikit-image
+
+pip install transformers
 pip install tqdm
 pip install gym
 pip install gymnasium
 pip install seaborn
+pip install tiktoken
 ```
 
 * Only for TF

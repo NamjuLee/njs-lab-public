@@ -150,14 +150,14 @@ Design and implement custom tools for design algorithms and projects, tailored t
 
 **LOCATION:**  
 
-* TBA
+* 공 367호
 
 **DATE:**  
 
-* TBA
+* 매주 화요일
 
 **TIME:**  
-* 2PM ~ 5PM
+* 16:30 ~ 19:15
 * 20% for lectures, 70% for workshops, and 10% for exercise and troubleshooting
 
 
@@ -1018,13 +1018,18 @@ rhinoscriptsyntax, surface related functions
 	LAB 05 - Digital Texture prediction  
 	LAB 06 - Map Classifier  
 	LAB 07 - Data Reference Basic Analytical Models  
-	LAB 08 - Sketch To Rendering  
-	LAB 09 - Text to Image  
-	LAB 09 - Text to Speech / Speech-to-Text  
-	LAB 10 - Semantic Segmentation  
-	LAB 11 - Transformer  
-	LAB 12 - Reinforcement  
 	LAB 13 - Others  
+
+* Generative models
+	LAB 01 - Sketch To Rendering  
+	LAB 02 - Text to Image  
+	LAB 03 - Text to Speech / Speech-to-Text  
+	LAB 04 - Semantic Segmentation  
+	LAB 05 Transformer (Llama, Phi, EXAONE)
+
+* Reinforcement Learning
+	LAB 01 - QLearning
+	LAB 02 - Deep 
 
 * Third-Place-Prediction-Report-V2022 
   * review(writing) 
