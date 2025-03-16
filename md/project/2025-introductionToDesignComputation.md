@@ -171,6 +171,10 @@ Design and implement custom tools for design algorithms and projects, tailored t
 	* Library: [NJSCore](https://www.npmjs.com/package/njscore), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tensorflow](https://www.tensorflow.org/), [TensorflowJS](https://www.tensorflow.org/js)  
 	* Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS](https://nodejs.org/en/), [Github Desktop](https://desktop.github.com/)  
 
+	* GH Add-On
+		* [NJS lib](https://github.com/NamjuLee/data-in-design/blob/main/src/lib/njs.zip)
+		* [Millipede lib](https://github.com/NamjuLee/data-in-design/blob/main/src/lib/Millipede.zip)  
+
 **Prerequisite**  
 * Experience in design  
 * Proficiency in at least one modern programming language (Python, Java, JavaScript, TypeScript, C, C++, C#, or Swift)   

@@ -78,6 +78,12 @@ nvm use 18
     • conda remove --name myEnv --all
     • conda activate myEnv
 
+    • Exporting env
+      • conda env export --name ENV_NAME > environment.yml
+    • Creating env from the yml file
+      • conda env create --file environment.yml
+      • conda env create --name ENV_NAME_COPY --file environment.yml
+
 
 ---
 # 6. Python Packages
@@ -157,6 +163,11 @@ conda activate pytorch-gpu-2024
 conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0  pytorch-cuda=11.8 -c pytorch -c nvidia
 ```
 
+```shell
+conda create -n pytorch-gpu-2024 python=3.10
+conda activate pytorch-gpu-2024
+conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+```
 
 
 * For OSX
@@ -198,6 +209,8 @@ pip install opencv-python
 
 conda install -c anaconda scikit-learn
 conda install -c conda-forge scikit-image
+conda install -c conda-forge accelerate
+conda install -c conda-forge datasets
 
 pip install transformers
 pip install tqdm

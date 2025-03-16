@@ -1224,6 +1224,13 @@ link: https://computationaldesign.tistory.com/4
 * heechan's BIM Story - https://computationaldesign.tistory.com/9
 * Hyung-Chil Hyung's Urban Regeneration - https://computationaldesign.tistory.com/26
 
+## External Reference:
+
+* https://www.w3schools.com/
+* https://webgl2fundamentals.org/
+* https://learnopengl.com/
+
+
 
 
 ## ETC
