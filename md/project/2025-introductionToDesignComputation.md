@@ -171,9 +171,33 @@ Design and implement custom tools for design algorithms and projects, tailored t
 	* Library: [NJSCore](https://www.npmjs.com/package/njscore), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tensorflow](https://www.tensorflow.org/), [TensorflowJS](https://www.tensorflow.org/js)  
 	* Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS](https://nodejs.org/en/), [Github Desktop](https://desktop.github.com/)  
 
-	* GH Add-On
+	* GH Add-On:
 		* [NJS lib](https://github.com/NamjuLee/data-in-design/blob/main/src/lib/njs.zip)
 		* [Millipede lib](https://github.com/NamjuLee/data-in-design/blob/main/src/lib/Millipede.zip)  
+
+	* Examples:
+		* NNA[https://namjulee.github.io/njs-lab-public/work?id=2020-post-covid-19-urbanism]
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NNA.zip
+		
+		* [Numerical Architecture Compiler](https://namjulee.github.io/njs-lab-public/work?id=2015-ac-development)
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NumericalArchitectureCompiler.zip
+		
+		* [Numerical Environmental Utility](https://namjulee.github.io/njs-lab-public/work?id=2015-neu-development)
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NumericalEnvironmentalUtility.zip
+		
+		* [Numerical Dynamics Utility](https://namjulee.github.io/njs-lab-public/work?id=2015-ngu-dynamic-development)
+		* [Numerical Geometry Utility](https://namjulee.github.io/njs-lab-public/work?id=2015-ngu-development)
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NumericalGeometry.zip
+
+		* [Numerical Image Utility](https://namjulee.github.io/njs-lab-public/work?id=2018-niu-development)
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NumericalImageUtility.zip
+		
+		* [Numerical Mapping Utility](https://namjulee.github.io/njs-lab-public/work?id=2018-nmu-development)
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NumericalMappingUtilityWithPython.zip
+		
+		* [Numerical Urban Utility](https://namjulee.github.io/njs-lab-public/work?id=2016-mobility-energy-consumption-mit-media-lab)
+			* https://github.com/NamjuLee/data-in-design/blob/main/src/lib/examples/NumericalUrbanUtility.zip
+
 
 **Prerequisite**  
 * Experience in design  
