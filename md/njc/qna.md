@@ -2470,7 +2470,7 @@ C[#워크숍](https://www.youtube.com/hashtag/%EC%9B%8C%ED%81%AC%EC%88%8D): [htt
 
 [11:49](https://www.youtube.com/watch?v=_13DvoZH52w&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=77&t=709s) - 극단적 비유로 예를 들면…
 
-[13:24](https://www.youtube.com/watch?v=_13DvoZH52w&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=77&t=804s) - 두 번째 파운데이션 - 디자인 언어(기아학)
+[13:24](https://www.youtube.com/watch?v=_13DvoZH52w&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=77&t=804s) - 두 번째 파운데이션 - 디자인 언어(기하학)
 
 [17:02](https://www.youtube.com/watch?v=_13DvoZH52w&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=77&t=1022s) - 뒤에서 어떻게 작동하는지 항상 궁금해 하자
 

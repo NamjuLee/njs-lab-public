@@ -729,7 +729,7 @@ Python Class & Graph
 
 # ..........................................................................................
 
-# Class 09. Raster: Pixel & Color Data Structure & CV(Computer Vision) for Image Video
+# Class 09. Raster: Pixel and Voxel Map & Data Structure & Color Data Structure & CV(Computer Vision) for Image Video
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
 
@@ -743,7 +743,7 @@ Raster: Color Computation & Bitmap
 * Indexing Remote Sensing
 
 
-
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/raster-Pixel-Voxel.gif)
 
 ### LECTURE:
 
@@ -751,38 +751,16 @@ Raster: Color Computation & Bitmap
 
 * NDVI(Normalized Difference Vegetation Index)
 
+* [Data Structure and Algorithm for Design and Research]
+  Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+
 ---
 ### LAB:
 * OpenCV  
 * Numerical Image Utility
 * Color space and Blending mode
----
-### REFERENCE:
-
-[Data Structure and Algorithm for Design and Research]  
-* Slides https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE  
-* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
-
-
-
-
----
-# Class 10. Raster: Pixel and Voxel Map & Data Structure 
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/raster-Pixel-Voxel.gif)
-
-
-### LECTURE:
-* [Data Structure and Algorithm for Design and Research]
-  Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
-
-
- 
----
-### LAB:
 * DEM to terrain  
 * Numerical landscape Utility
-
 
 * [Path-finding](https://en.wikipedia.org/wiki/Pathfinding#:~:text=Pathfinding%20or%20pathing%20is%20the,path%20on%20a%20weighted%20graph.)
   * Dijkstra: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/dijkstras-algorithm
@@ -790,6 +768,11 @@ Raster: Color Computation & Bitmap
 
 ---
 ### REFERENCE:
+
+[Data Structure and Algorithm for Design and Research]  
+* Slides https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE  
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/raster-pixelMap.gif)
 
@@ -807,7 +790,7 @@ Voxel
 
 ---
 # ..........................................................................................
-# Class 11. Analytical model: Machine Learning
+# Class 10. Analytical model: Machine Learning
 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
@@ -961,7 +944,7 @@ Voxel
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 12. Generative model: AE, GAN, Transformers ...
+# Class 11. Generative model: AE, GAN, Transformers ...
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
@@ -988,7 +971,7 @@ Deep Learning
 
 ---
 # ..........................................................................................
-# Class 13. Design Algorithm & implementation
+# Class 12. Design Algorithm & implementation
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DataStructure.png)
 
@@ -1037,11 +1020,9 @@ Deep Learning
 * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/koze  
 
 
----
-
 
 ---
-# Class 14. Dynamics & Optimization
+# Class 13. Dynamics & Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
 
@@ -1094,7 +1075,7 @@ Dynamics
 
 ---
 # ..........................................................................................
-# Class 15. 3D & Data Visualization & Digital Mapping
+# Class 14. 3D & Data Visualization & Digital Mapping
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/06_1500.gif)
 
@@ -1157,7 +1138,7 @@ LAB 03 - Visualization analysis methods and tools
   * [Data Pre Processing] - https://github.com/NamjuLee/Data-Pre-Processing  
   * 
 
-# Class 16. Immersive experience & design visualization: VR, AR, MR Development
+# Class 15. Immersive experience & design visualization: VR, AR, MR Development
 
 ---
 ### LAB:  
@@ -1176,7 +1157,7 @@ LAB 03 - Visualization analysis methods and tools
 
 ---
 
-# Class 17. Design Visualization & Animation
+# Class 16. Design Visualization & Animation
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/14_1500.gif)
 
 ### LECTURE:
@@ -1213,7 +1194,7 @@ LAB 03 - Visualization analysis methods and tools
 
 ---
 # ..........................................................................................
-# Class 18. Introduction to GIS for Design
+# Class 17. Introduction to GIS for Design
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png) 
 
 
@@ -1224,7 +1205,7 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Class 19. Digital Fabrication & Material & Robotics & Printing
+# Class 18. Digital Fabrication & Material & Robotics & Printing
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/10_1500.gif)
 
@@ -1235,7 +1216,7 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Class 20. Digital Structure and Optimization
+# Class 19. Digital Structure and Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/08_1500.gif)
 
@@ -1252,7 +1233,7 @@ The new version of millipede includes the surface reparameterization module that
 * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/grid-optimizer
 
 ---
-# Class 21. Introduction to Physical Computing (Sound Signals)
+# Class 20. Introduction to Physical Computing (Sound Signals)
 
 This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
 
@@ -1267,7 +1248,7 @@ This course provides an introduction to the field of physical computing, where s
 ---
 # ..........................................................................................
 
-# Class 22. Research & Design Tools: CAD System Application & Development
+# Class 21. Research & Design Tools: CAD System Application & Development
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
 For those who aspire to become professional computational designers and wish to develop design solutions or software, create plugins or add-ons, or turn design algorithms into libraries—this workshop chapter is highly recommended. It’s also perfect for anyone looking to go beyond existing commercial software environments and develop their own design program.
@@ -1328,7 +1309,7 @@ CAD System & development
 
 
 ---
-# Class 23. Project I: Design & Research Project
+# Class 22. Project I: Design & Research Project
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
 
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
@@ -1340,7 +1321,7 @@ CAD System & development
 
 
 ---
-# Class 24. Project II: Thesis Project
+# Class 23. Project II: Thesis Project
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
 
 * Design Project:  
@@ -1349,9 +1330,6 @@ CAD System & development
 * Design Algorithm  
 ...
  
-
-
-
 
 
 
