@@ -726,17 +726,14 @@ Python Class & Graph
 * Geeks for geeks: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
 
-
-# ..........................................................................................
-
-# Class 09. Raster: Pixel and Voxel Map & Data Structure & Color Data Structure & CV(Computer Vision) for Image Video
+# Class 09. Raster: Color, Pixel, and Voxel Map & Data Structure
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
 
 Color as design data - https://computationaldesign.tistory.com/17
 
 Raster: Color Computation & Bitmap
-
+* Color Data Structure & CV(Computer Vision) for Image Video
 * Color Space: RGB, LAB, HSL ...
 * Blending mode
 * Color selection 
