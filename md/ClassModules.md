@@ -787,7 +787,9 @@ Voxel
 
 ---
 # ..........................................................................................
-# Class 10. Analytical model: Machine Learning
+# Class 10. AI for Design
+
+Analytical model: Machine Learning
 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
@@ -855,7 +857,6 @@ Voxel
 * Huggingface - https://huggingface.co/
 
 #### 5. Introduction to AI models and Implementations
-
 
 **LECTURE**
 
@@ -941,7 +942,7 @@ Voxel
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 11. Generative model: AE, GAN, Transformers ...
+# Class 11. Analytical AI & Generative_AI
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
