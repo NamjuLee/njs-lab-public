@@ -226,6 +226,8 @@ conda install -c anaconda pillow
 conda install -c anaconda pandas
 conda install -c anaconda seaborn
 
+conda install -c conda-forge polars
+
 conda install -c anaconda matplotlib
 conda install -c conda-forge matplotlib
 pip install matplotlib
@@ -238,6 +240,10 @@ conda install -c anaconda scikit-learn
 conda install -c conda-forge scikit-image
 conda install -c conda-forge accelerate
 conda install -c conda-forge datasets
+
+conda install -c conda-forge trimesh
+conda install -c conda-forge pythreejs
+
 
 pip install transformers
 pip install tqdm

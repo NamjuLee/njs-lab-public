@@ -2,6 +2,15 @@
 [NJ Lecture Series slides](https://docs.google.com/presentation/d/1SojKNRjp6OYsPimU7JVNTgDfQL945tNs3Gqe9aDchr0)
 
 
+
+
+
+
+
+
+
+
+
 ## COURSEWORKS & CLASS MODULES
 * CLASS MODULES: [Short slides](https://docs.google.com/presentation/d/1DGemUWP9oljep46wFKZi4WtDtfMIn-tTF0NpkqrftjQ) / [Long slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI)  
 * Open Lectures Level 1,2,3 - https://www.youtube.com/watch?v=doTbuenr16Q
@@ -91,6 +100,19 @@ Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advance
 # ..........................................................................................
 ---
 # Class 01. Data & Design: Code for Design
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR_L5Ns3lGLkQqpt35DJUBkUnkayQHL2vk19Eew3yXrp9FF54_3VExDNwV24wveC1Unb6_EITxCXLdz/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/dataDesignSequence.jpg)
 
 [Book, PPT] [Computational Design Software as tool](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_30)  
@@ -165,6 +187,17 @@ The introduction to the key topic: Data in Design, helps you understand the mean
 
 ---
 # Class 02. Programming and Data Processing
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSGx0-wCa1lWaYBS_lxqoWKZBkxAs_m07Wb10LFROXM384rvb8dCbso0-6MRx5pGwpcLm-cEQIt7pKj/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/programming.jpg)
 
@@ -266,6 +299,17 @@ Lecture:
 # ..........................................................................................
 # Class 03. Vector: Vector & Point Data structure
 
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vScKfJyKbrXeENr6mVrK9-OYU_725LwXpksp0HYD96cxBW9DNenMCMGvnI92ox8YjxXVG7rpUZusdOg/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+
+---
+
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vector.jpg)
 
 Vector: https://namjulee.github.io/njs-lab-public/lab/lab-vector-&-point-discrete-design-data/vector  
@@ -359,8 +403,17 @@ Vector: https://computationaldesign.tistory.com/39
 ---
 # Class 04. Vector: Line & Polyline & Curve
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/curveInterpolation.png)
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQHKlqvMJE9IoiAdt4bdcM88O1r5KhA0JvtiuBuw2RHeTtLJYarS-ZC0ED2YPG0oRftm__74Si1MGJC/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/curveInterpolation.png)
 
 
 Vector: Curve - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/line-curve 
@@ -503,6 +556,17 @@ LAB 03 - Mesh,
 ---
 # Class 05. Surface & Brep
 
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR8emG4wsg2_arR2rsu7eJdDyTio2YuO3U5KJUOcFW2RDNroiTtZZJfhVkzAYjdZTGopO8ulBNdV4Bo/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-01.gif)  
 
 
@@ -523,6 +587,16 @@ LAB 03 - Mesh,
 # ..........................................................................................
 
 # Class 06. OOP & Data Structure & Design Pattern
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTDVooQQ6WwZmzRuGnPb8kPg4GEC0LkwSSGJIiYBPIHgFrcBpcEuSJf1uN01XHbjXbFY_upwh5IA6gJ/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/OOP-component-centric.png)
 
@@ -560,6 +634,16 @@ Geometry class - https://computationaldesign.tistory.com/23
 # ..........................................................................................
 ---
 # Class 07. Discretization: Mesh & Partitions & Spatial Information 
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTlOrBCV4IVxU0Tf6H3lYZ_4NIT01tnHTsFYccYOwcLBYMjo8tjdfRhg6Dq8624_rsJDg2QkasD6til/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
 
@@ -611,6 +695,17 @@ Geometry class - https://computationaldesign.tistory.com/23
 
 ---
 # Class 08. Vector: Graph & Data Structures
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRMc4nk7cwgr2YukB32szxr9jmJ2WILlc2mX0f2tAncLSKfkKvFl5qwwzVK7DJiHGkGdEl3M_p8a8ic/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
 Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph 
@@ -725,8 +820,20 @@ Python Class & Graph
 
 * Geeks for geeks: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
-
+---
 # Class 09. Raster: Color, Pixel, and Voxel Map & Data Structure
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTJ5CW7E5Nl68aRcGWjLvDPfbsHCy8CPxzhnLK_sl8YHDskjLleMyPEY1f8ZEHHWqu2VHvdiPxIcG6W/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
 
@@ -788,6 +895,16 @@ Voxel
 ---
 # ..........................................................................................
 # Class 10. AI for Design
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQ7e0ZUraEf0fdpDf-dqfAckuCtfRQ0igfZ8dkeLEVf0M9tJyNIB6_5n-_dzmh5z-8DXYQb6bIIv9mN/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
 
 Analytical model: Machine Learning
 
@@ -942,7 +1059,18 @@ Analytical model: Machine Learning
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 11. Analytical AI & Generative_AI
+# Class 11. AI-aided Design
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTzf6MqLm3lykJrReWDYHVMYHgQ1_tLSgThD7eXBIscaY8PHP9OmXIA6De2PslSWV93ukOWSAs1PvWS/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
@@ -970,6 +1098,16 @@ Deep Learning
 ---
 # ..........................................................................................
 # Class 12. Design Algorithm & implementation
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTppgZBRS4Dy6gjqD84fslL8qNRe12gx2Pk8c1eNMtRVzzqIPFFQdVi33TZzl4CEH2kEuQnRTZUE8Zk/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DataStructure.png)
 
