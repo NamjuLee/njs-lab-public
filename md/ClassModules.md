@@ -1160,6 +1160,17 @@ Deep Learning
 ---
 # Class 13. Dynamics & Optimization
 
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRXcQRO3IIfaEZCp2QcshDw4fYriRXDooneU8_vO5FRullaOMOoEll-zefHciRIo_9QtVFoMaOqOuW7/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
 
 Dynamics
@@ -1212,6 +1223,17 @@ Dynamics
 ---
 # ..........................................................................................
 # Class 14. 3D & Data Visualization & Digital Mapping
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQ5GgV7teorDOD8uf5nxuJ02HQMQKVIC04juYJQB8-AMOOukLM6HOPbU5tgmQbj7JRQ-SWAu9O7BiL_/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/06_1500.gif)
 
@@ -1276,6 +1298,18 @@ LAB 03 - Visualization analysis methods and tools
 
 # Class 15. Immersive experience & design visualization: VR, AR, MR Development
 
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR_AFMyqjDvYOfQ-BfQUbwA3zQbrp99RiVl2-llUa3evLiiVvjQVDAo97SnZGUwlcXiGrqDRRGb32XP/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
+
 ---
 ### LAB:  
 * Unity & ~~Unreal~~: Real time graphics, pipeline, GLSL shader ...
@@ -1292,8 +1326,19 @@ LAB 03 - Visualization analysis methods and tools
   * git - https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization
 
 ---
-
 # Class 16. Design Visualization & Animation
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vRYnglgaikF-Ksxaj2KQoRPEF8OUoZTzFMfhJHUaKQm8phzDMdcDwFZoCCexmcHNtJ9JPLypFH7f98W/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/14_1500.gif)
 
 ### LECTURE:
@@ -1331,6 +1376,18 @@ LAB 03 - Visualization analysis methods and tools
 ---
 # ..........................................................................................
 # Class 17. Introduction to GIS for Design
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTCAGwIW6cZf3S6kOmrmk7xxah6-3o0OU5MICzrQ7nLji1aG--YNL5b9i5VhBH3tBmEZyRTwu2vYvim/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png) 
 
 
@@ -1385,9 +1442,22 @@ This course provides an introduction to the field of physical computing, where s
 # ..........................................................................................
 
 # Class 21. Research & Design Tools: CAD System Application & Development
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR8a6OhBqcxbltIADs9WpfPj0MvTVObGSurn8FBE0Caxv5oAYWuhwQcaN9VpxKn9yNgDoh7gQukfJuQ/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
-For those who aspire to become professional computational designers and wish to develop design solutions or software, create plugins or add-ons, or turn design algorithms into libraries—this workshop chapter is highly recommended. It’s also perfect for anyone looking to go beyond existing commercial software environments and develop their own design program.
+For those who aspire to become professional computational designers and wish to develop design solutions or software, create plugins or add-ons, or turn design algorithms into libraries—this workshop chapter is highly recommended. It’s also perfect for anyone looking to go beyond existing commercial software environments and develop their own design program. 
+
 
 **Software Development - https://computationaldesign.tistory.com/40**  
 **Plugins / Addons - https://computationaldesign.tistory.com/36** 
@@ -1446,6 +1516,18 @@ CAD System & development
 
 ---
 # Class 22. Project I: Design & Research Project
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vQtbsps_QvLdBrYSAirVulgqSb1AFcwVTfGB-J6d-pdeKs8mQo413vJ8EnZ-RYcCXwogssAyf6j08Ip/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
 
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
