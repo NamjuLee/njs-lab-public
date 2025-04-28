@@ -8,6 +8,18 @@
 
 Data in Design: 0 Syllabus
 
+
+<div style="position: relative; width: 100%; padding-top: 59.8%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTOCipZerfdtnr9Fp7cskIXbG1JB7XP6s2Lf_nC0qSvZm4bvTLLM_r7WgRKrxN-zi2KIHuwUvDDAqaW/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<!-- <iframe src="" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
+
 ---
 
 # DATA in DESIGN

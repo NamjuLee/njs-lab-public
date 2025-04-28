@@ -2,6 +2,16 @@
 
 [Site Link](https://event.buildingsmart.or.kr/Conference/2024)
 
+
+<div style="position: relative; width: 100%; padding-top: 61.5%; background-color: '#ffffff';">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vSMR_6ovL-mJPsaBKbGeix8K84P5ZZghHAB6Z1WMdpbe8EZ7ieq79gIGdkCIL7TZOwO432ke_0UY389/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+
 [Download Presentation material](https://namjulee.github.io/njs-lab-public/project/2024-buildsmart-conference/2024_buildSMART_Conference_2024.pdf)
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2024-buildsmart-conference/2024_buildSMART_Conference_2024.jpg)
