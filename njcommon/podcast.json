@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2jhS9EefkvNVQWSJkD5XLp",
+        "title": "Class 01 Lecture A Data & Design - Code for Design",
+        "lan": "eng",
+        "description": "These sources discuss the evolving role of data and computational thinking in design, highlighting how data is becoming a fundamental `material` akin to traditional building materials. The speaker, an expert in both architectural design and software engineering, emphasizes the necessity for designers to understand how to digitize reality and codify design processes, utilizing concepts like data structures (vector, raster, graph) and algorithms. The texts also explore the difference between traditional deductive problem-solving and inductive approaches like machine learning, stressing the importance of choosing the right method and focusing on unchanging foundational principles in a rapidly advancing technological landscape.",
+        "video": ""
+    },
+    {
+        "id": "2NRwcHN7xOM1pDFgDdEUeC",
+        "title": "Class 01 Lecture A Data & Design - Code for Design ",
+        "lan": "kor",
+        "description": "본 발표 자료는 건축 설계, 소프트웨어 엔지니어링, 컴퓨테이션 디자인 분야의 전문가가 디자인의 미래에서 데이터의 역할을 탐구하는 내용을 담고 있습니다. 연사는 데이터를 새로운 디자인 재료로 제시하며, 현실 정보를 디지털화하고 디자인 과정을 코드화하는 것의 중요성을 강조합니다. 또한, 문제 해결을 위한 컴퓨테이셔널 사고와 데이터 구조, 알고리즘에 대한 이해의 필요성을 역설합니다. 빠르게 변화하는 기술 속에서도 변하지 않는 기초 개념에 집중하는 것이 중요하며, 다양한 사례 연구를 통해 데이터와 컴퓨테이셔널 접근 방식이 디자인 분야에 적용될 수 있음을 보여줍니다.",
+        "video": ""
+    },
+    {
+        "id": "6kAqq7Z8XjHIc3UqhkH4nU",
+        "title": "Design Material:Data Utilization in Computation, buildSMART Conference 2024",
+        "lan": "eng",
+        "description": "These sources discuss the evolving role of data and computational thinking in design, highlighting how data is becoming a fundamental `material` akin to traditional building materials. The speaker, an expert in both architectural design and software engineering, emphasizes the necessity for designers to understand how to digitize reality and codify design processes, utilizing concepts like data structures (vector, raster, graph) and algorithms. The texts also explore the difference between traditional deductive problem-solving and inductive approaches like machine learning, stressing the importance of choosing the right method and focusing on unchanging foundational principles in a rapidly advancing technological landscape.",
+        "video": "K0Y20rPuoJs"
+    },
+    {
+        "id": "7lhTeAnM35fi4wpOwnnXzR",
+        "title": "Design Material:Data Utilization in Computation, buildSMART Conference 2024",
+        "lan": "kor",
+        "description": "본 발표 자료는 건축 설계, 소프트웨어 엔지니어링, 컴퓨테이션 디자인 분야의 전문가가 디자인의 미래에서 데이터의 역할을 탐구하는 내용을 담고 있습니다. 연사는 데이터를 새로운 디자인 재료로 제시하며, 현실 정보를 디지털화하고 디자인 과정을 코드화하는 것의 중요성을 강조합니다. 또한, 문제 해결을 위한 컴퓨테이셔널 사고와 데이터 구조, 알고리즘에 대한 이해의 필요성을 역설합니다. 빠르게 변화하는 기술 속에서도 변하지 않는 기초 개념에 집중하는 것이 중요하며, 다양한 사례 연구를 통해 데이터와 컴퓨테이셔널 접근 방식이 디자인 분야에 적용될 수 있음을 보여줍니다.",
+        "video": "K0Y20rPuoJs"
+    }
+]

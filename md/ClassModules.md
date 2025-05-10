@@ -894,7 +894,7 @@ Voxel
 
 ---
 # ..........................................................................................
-# Class 10. AI for Design
+# Class 10. AI for Designers
 
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
@@ -1009,17 +1009,49 @@ Analytical model: Machine Learning
 	LAB 12 - Reinforcement  
 	LAB 13 - Others  
 
+
+#### Prerequisite  
+* Module 3-02 
+
+
+* w3schools: AI - https://www.w3schools.com/ai/default.asp
+* Kaggle - https://www.kaggle.com/
+* Huggingface - https://huggingface.co/
+
+---
+# Class 11. AI-aided Design
+
+<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vTzf6MqLm3lykJrReWDYHVMYHgQ1_tLSgThD7eXBIscaY8PHP9OmXIA6De2PslSWV93ukOWSAs1PvWS/pubembed?start=false&loop=false&delayms=3000"
+    frameborder="0"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
+    allowfullscreen>
+  </iframe>
+</div>
+---
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
+
+Deep Learning
+### LECTURE:
+* Analytical AI & Generative AI
+  * Problem Definition, Data Utilization, and Understanding of AI Models  
+  * Data Format, Content, and Model Application  
+  * Analytical Models (Regression and Classification for Design Data)  
+  * Generative Models (Image Generation, Transformers, and Large Language Models)  
+
+
+
+
+---
+### SEMINAR:
 * Third-Place-Prediction-Report-V2022 
   * review(writing) 
     * Kor - https://brunch.co.kr/@njnamju/148 
     * Eng - https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a
   * review(video) - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o
   * git(code) - https://github.com/NamjuLee/Third-Place-Prediction-Report-V2022
-
-
-
-
----------------------------------
 
 
 
@@ -1047,52 +1079,29 @@ Analytical model: Machine Learning
 
 **WORKSHOP**
 * LAB 01 - Visualization, 
-* LAB 02 - Model implementation(Boston, LA, and Redlands)
+* LAB 02 - Model implementation(Boston, LA, and Redlands) 
 
-
-#### Prerequisite  
-* Module 3-02 
-
-
-* w3schools: AI - https://www.w3schools.com/ai/default.asp
-* Kaggle - https://www.kaggle.com/
-* Huggingface - https://huggingface.co/
-
----
-# Class 11. AI-aided Design
-
-<div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
-  <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vTzf6MqLm3lykJrReWDYHVMYHgQ1_tLSgThD7eXBIscaY8PHP9OmXIA6De2PslSWV93ukOWSAs1PvWS/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
-    allowfullscreen>
-  </iframe>
-</div>
----
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
-
-Deep Learning
-### LECTURE:
-* Autoencoder (AE)  
-* Generative Adversarial Networks (GAN)  
-* Diffusion Models  
-* Transformers (Generative Pretrained Models)  
-
----
-### SEMINAR:
- 
 ---
 ### LAB:
 * AE(Autoencoders)
 * GAN(Generative Adversarial Networks)
 * Diffusion Models
-* Transformer (Generative Pretrained Models) 
+* Transformer (Generative Pre-trained Models)
+  * Training a Large Language Model (LLM) from Scratch
+  * Fine-Tuning an Existing LLM Model
 
 ---
 ### REFERENCE:
+* AI and Data for design - https://computationaldesign.tistory.com/29
 
+* Data, Design Computation, Artificial Intelligence, Visualization, Harvard GSD J Term 2023 - https://github.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public
+
+
+* NJC QnA 143 인공지능 어떻게 생각 하나요? AI 인공지능으로 우리의 직업이 대체될 것인가? - https://youtu.be/E7fJJdx3fHQ
+* QnA 146 디자이너가, 데이터 코딩 인공지능 해야 하나? 말아야 하나? - https://youtu.be/8N18SM9IkL4
+
+* Kaggle - https://www.kaggle.com/
+* Huggingface - https://huggingface.co/
 
 
 ---
