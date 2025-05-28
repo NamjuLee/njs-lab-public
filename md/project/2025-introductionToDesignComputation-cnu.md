@@ -24,7 +24,7 @@ NJS Lab & NJSTUDIO / https://namjulee.github.io/njs-lab-public/
 
 <div style="position: relative; width: 100%; padding-top: 60%; background-color: #ffffff;">
   <iframe
-    src="https://docs.google.com/presentation/d/e/2PACX-1vTDJissYJa8NKP0YESq6829ZS9sV0QxnHr38LQGOAbTuuM8kgWdyVXdQAMojhOR__q4mdUfWcPc62Ik/pubembed?start=false&loop=false&delayms=3000"
+    src="https://docs.google.com/presentation/d/e/2PACX-1vT9gmPshsBWd6XOUNGHyIXhiLKsW7cYJYdT12YUfabYQcZfDRDOieOg7cUIogvfLfUCBQLMiIYBOo2C/pubembed?start=false&loop=false&delayms=3000"
     frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
