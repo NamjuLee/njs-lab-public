@@ -1,0 +1,107 @@
+# **/*.txt.ignore
+# **/njscore-package
+
+# **/*.h5
+# **/*.hdf5
+# **/*.bin
+# **/model.png
+
+# **/src/PART_3_AI_Model_Implementation/SmartDrawing/data
+# **/src/PART_3_AI_Model_Implementation/TexturePrediction/data
+# **/src/PART_4_Third_Place_Prediction_Model/LAB_01_Third Place Prediction/data
+
+# **/.ipynb_checkpoints
+.env
+
+
+node_modules
+recycleFactory
+Qeue
+build
+
+projects
+projectTemp
+
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+# Blazor specific files and directories
+**/bin/
+**/obj/
+**/*.suo
+**/*.user
+**/*.vspscc
+**/*.vssscc
+**/_i.c
+**/_p.c
+**/*.ncb
+**/*.suo
+**/*.tlb
+**/*.tlh
+**/*.bak
+**/*.cache
+**/*.ilk
+**/*.log
+**/*.lib
+**/*.sbr
+**/*.pdb
+**/*.idb
+**/*.manifest
+**/*.deploy
+**/*.xml
+**/*.swp
+**/*.dll
+**/*.exe
+**/*.msi
+# Temporary files
+[Tt]emp/
+[Vv]isual[Tt]udio/
+*.o
+*.os
+*.xsc
+*.xsi
+*.xsl
+*.xsx
+*.ppx
+*.target
+*.cspkg
+*.csx
+*~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+node_modules/
+npm-debug.log
+
+dist
+
+*.pth
