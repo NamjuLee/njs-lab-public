@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[1752],{1752:(s,e,o)=>{o.r(e),o.d(e,{Solution:()=>u});var t=o(85715);class u extends t.J0{constructor(s){super(s),this.polyline=void 0}initPost(){this.polyline={},this.start()}render(s){}mouseDown(s,e){}mouseUp(s,e){}mouseDrag(s,e){}mouseClick(s,e){}mouseMove(s,e){}keyDown(s){}}}}]);
