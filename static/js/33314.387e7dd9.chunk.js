@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[33314],{33314:(e,s,r)=>{r.r(s),r.d(s,{Solution:()=>a});var u=r(85715);class a extends u.TF{constructor(e){super(e)}render(e){}}}}]);

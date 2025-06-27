@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[43713],{43713:(e,s,c)=>{c.r(s),c.d(s,{GeometryBase:()=>r});var a=c(14291);class r{constructor(){this.vec=new a.NVector3(0,0,0)}}}}]);

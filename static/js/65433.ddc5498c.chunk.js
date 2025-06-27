@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[65433],{65433:(e,s,r)=>{r.r(s),r.d(s,{Renderer:()=>a});class a{constructor(e){this.app=void 0,this.app=e}render(e){this.app.scene.geometries.forEach((s=>{s.render(e)}))}}}}]);

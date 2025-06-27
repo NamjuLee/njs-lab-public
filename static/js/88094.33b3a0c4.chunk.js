@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[88094],{88094:(e,r,s)=>{s.r(r),s.d(r,{LogWrapper:()=>p});class p{constructor(e){this.modelViewCoreWrapper=void 0,this.modelViewCoreWrapper=e}}}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[98625],{98625:(e,s,r)=>{r.r(s),r.d(s,{ViewAssetWrapper:()=>t});class t{constructor(e){this.viewController=void 0,this.viewController=e}}}}]);

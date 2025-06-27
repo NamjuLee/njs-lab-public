@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[39370],{22752:(e,s,c)=>{c.r(s),c.d(s,{GeometryBase:()=>t});class t{constructor(e){this.scene=void 0,this.scene=e,this.scene.add(this)}render(){}}}}]);

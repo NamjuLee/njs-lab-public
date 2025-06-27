@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[94815],{94815:(s,c,e)=>{e.r(c),e.d(c,{Solution:()=>t});class t{constructor(s){}destroy(){}}}}]);

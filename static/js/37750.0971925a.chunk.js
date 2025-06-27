@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[37750],{37750:(s,e,h)=>{h.r(e),h.d(e,{Modal:()=>a});class a{constructor(s){this.mesh=void 0,this.mesh=s}preRender(){}}}}]);

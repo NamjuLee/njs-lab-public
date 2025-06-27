@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[44154],{44154:(s,t,c)=>{c.r(t),c.d(t,{Scene:()=>e});class e{constructor(s){this.NGL3dApp=void 0,this.triList=[],this.NGL3dApp=s}}}}]);

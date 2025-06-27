@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[8798],{8798:(t,s,e)=>{e.r(s),e.d(s,{Solution:()=>i});class i{constructor(t,s){this.hostDiv=void 0,this.hostDiv=document.getElementById(t),window.open(s.url,"_blank")}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}}}]);
