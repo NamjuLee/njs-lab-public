@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[51974],{51974:(e,i,t)=>{t.r(i),t.d(i,{Solution:()=>r});var s=t(92038);class r{constructor(e){this.divHost=void 0,this.appHypercube3d=void 0,this.init(e)}async init(e){this.appHypercube3d=await s.Lj.init({environmentType:s.xh.Configurator,divID:e,webGPU:!1,performanceMode:!1,ui:!0,debuggerMode:!0})}destroy(){this.appHypercube3d.destroy()}}}}]);
-//# sourceMappingURL=51974.c581f3ba.chunk.js.map
