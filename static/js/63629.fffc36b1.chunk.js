@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[63629],{63629:(e,i,s)=>{s.r(i),s.d(i,{Solution:()=>a});var t=s(71453);class a{constructor(e){this.divHost=void 0,this.appHypercube3d=void 0,this.init(e)}async init(e){this.appHypercube3d=await t.Lj.init({divID:e,webGPU:!0,performanceMode:!1,ui:!0,debuggerMode:!0})}destroy(){this.appHypercube3d.destroy()}}}}]);
-//# sourceMappingURL=63629.fffc36b1.chunk.js.map
