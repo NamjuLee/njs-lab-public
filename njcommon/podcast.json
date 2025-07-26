@@ -1,161 +1,547 @@
 [
-    {
-        "title": "Class 05 A: Lecture - Vector: Surface & Brep",
-        "id": "6kUkNKk8astKXi7ZnUC73D",
-        "lan": "eng",
-        "description": "These sources offer an overview of a data-driven design class lecture focusing on Surface and Boundary Representation (Brep) data, building upon previous discussions of vectors and curves. Key concepts covered include the definition of a surface as a two-dimensional form, the extraction of various data types like point grids, iso-curves, normal vectors, and curvature, and different methods for representing surfaces such as parametric and implicit forms. The lecture explores operations like area calculation and point projection, the mathematical understanding of curvature and its types (Gaussian, Mean), and concepts like surface mapping and geodesic curves. Finally, it introduces Brep and Mesh as methods for representing complex shapes and emphasizes the importance of understanding their hierarchical data structures for effective design and programming.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 05 A: Lecture - 벡터: 서피스 & 비랩 / Vector: Surface & Brep",
-        "id": "3qgzlQSENXGYGet7PxpiKd",
-        "lan": "kor",
-        "description": "표면(Surface), Brep(Boundary Representation), 그리고 메시(Mesh)와 관련된 데이터 구조와 개념을 설명하는 강의 내용과 요약 문서입니다. 표면은 커브에서 확장된 2차원 형상으로 점 그리드, 아이소커브, 법선 벡터, 곡률 등의 데이터가 추출 가능하며, 파라메트릭 또는 암시적 방식으로 표현됩니다. 복잡한 형태 표현의 한계를 가진 NURBS 표면을 보완하기 위해 여러 표면을 조합하는 Brep와 버텍스와 페이스로 구성된 메시가 활용되며, 이들 데이터 구조의 계층적 이해는 디자인 소프트웨어 활용과 형상 제어에 필수적입니다. 면적 계산, 점 투영, 곡률 이해(가우스 곡률, 평균 곡률), 표면 매핑, 측지선 등 다양한 표면 관련 연산과 개념이 다루어집니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 04 B: Workshop - Vector: Line & Polyline, & Curve",
-        "id": "5eZmWI6FyxJkpBfeNFx1Zn",
-        "lan": "eng",
-        "description": "These source excerpts primarily consist of a lecture on computational design and geometry using Rhino and Grasshopper, delivered with some Korean interjections. The lecture focuses on vector, line, polyline, and curve manipulation, including concepts like creating and modifying geometry through code, understanding data structures for points and lines, and interpreting parametric representations of curves. Additional topics covered include geometric operations such as fitting curves, calculating distances, line intersections, and splitting/trimming curves, as well as more advanced concepts like Bézier curves, circle and sphere packing, rectangles, ellipses, and the use of tangent, normal, and binormal vectors to define frames and curve curvature. The speaker also briefly touches on the importance of understanding the RhinoScript Syntax and RhinoCommon APIs and encourages hands-on practice with coding and geometric concepts.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 04 B: Workshop - 벡터: 라인(폴리라인) & 커브 / Vector: Line & Polyline & Curve",
-        "id": "4CRIqCup1fQG5dZPBEFRWK",
-        "lan": "kor",
-        "description": "강의 발췌본은 Rhino 및 Grasshopper 환경에서 벡터, 선, 폴리라인, 곡선과 같은 기하학적 요소를 생성하고 조작하는 컴퓨테이셔널 디자인의 기초를 다룹니다. 강의는 벡터 연산의 중요성을 강조하며, 이를 통해 기본적인 기하학적 형태를 구성하고 변형하는 방법을 설명합니다. 또한 RhinoScriptSyntax 및 RhinoCommon API를 사용하여 Python 스크립트를 통해 이러한 작업을 수행하는 실용적인 방법과 함께, 곡선의 속성 및 미분 기하학의 기초 개념을 소개하여 더욱 복잡한 형태를 이해하고 제어하는 방법을 제시합니다. 궁극적으로 API에 의존하는 것을 넘어 기하학의 수학적, 알고리즘적 원리를 이해하고 실제 코딩 연습을 통해 컴퓨테이셔널 사고 능력을 키우는 것의 중요성을 강조합니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 04 A: Lecture - Vector: Line & Polyline & Curve",
-        "id": "03tGuCsZX3BHniQUTZ2zad",
-        "lan": "eng",
-        "description": "This lecture segment provides an overview of a computation design course curriculum, focusing on the foundational concepts and their application. The speaker emphasizes the importance of understanding vector operations, explaining how they are fundamental to manipulating geometric data like curves and surfaces. The discussion then transitions to object-oriented programming as a method for structuring data and design concepts, highlighting its relevance in computational design for creating customized data structures. Key geometric concepts like the representation and properties of curves, including tangent, binormal, and principal normal vectors and curvature, are explained. Finally, the lecture outlines future topics, such as spatial data, AI, and visualization, and assigns research homework related to computational design projects.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 04 A: Lecture - 벡터: 라인(폴리라인) & 커브 / Vector: Line & Polyline & Curve",
-        "id": "4PMmjCZFG3H7dTM6f53T1d",
-        "lan": "kor",
-        "description": "본 자료들은 컴퓨테이셔널 디자인의 핵심 개념을 다루며, 특히 디자인 데이터의 기반이 되는 프로그래밍과 벡터의 중요성을 강조합니다. 벡터는 곡선, 표면, 메시와 같은 기하학적 요소의 조작에 필수적이며, 객체 지향 프로그래밍은 이러한 디자인 데이터를 구조화하고 관리하는 데 유용합니다. 또한, 곡선은 점들의 관계를 해석하는 객체로, 다양한 데이터(시작점, 끝점, 탄젠트, 곡률 등)를 포함하며 매개변수적 표현이 디자인 소프트웨어에서 주로 사용됩니다. 마지막으로, 다양한 유형의 곡선과 그 응용 분야, 그리고 컴퓨테이셔널 디자인 프로젝트를 분석하는 과제를 통해 실질적인 학습을 장려합니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 03 B: Workshop - Vector & Point Data Structure",
-        "id": "2z63UEnJDLRIRkHEks6Aes",
-        "lan": "eng",
-        "description": "These excerpts capture a workshop focused on the fundamental concepts of vectors and points within the context of design computing. The instructor guides students through various programming environments and libraries (like Processing, HTML Canvas, RhinoCommon, C#, and Python) to demonstrate how these basic geometric entities are represented and manipulated computationally. Key operations such as addition, subtraction, scaling, distance calculation, and cross/dot products are explained, often illustrating their implementation through code examples and their visual interpretation. The discussion also touches upon coordinate systems, planes, and transformations (translation, rotation, scaling), emphasizing that these seemingly complex geometric operations are built upon the core understanding of vectors and points. The overall aim is to provide students with a foundational understanding of these building blocks for creating and manipulating geometric data in design applications.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 03 B: Workshop - 벡터 & 포인트 데이터 구조 / Vector & Point Data Structure",
-        "id": "1oXnu1Uxwkv1AXURD7CpwB",
-        "lan": "kor",
-        "description": "강의 영상에서 강사는 벡터와 포인트 데이터 구조에 대해 설명하며, 다양한 프로그래밍 환경(프로세싱, HTML 캔버스, 오픈GL, 맷플롯립 등) 및 Rhino/Grasshopper에서 이러한 개념을 구현하는 방법을 시연했습니다. 학생들은 GitHub 저장소에서 예제 코드를 활용하여 벡터 연산 및 시각화를 연습하고, 질문 답변 자료를 참고할 수 있습니다. 강사는 벡터 덧셈, 뺄셈, 스케일링, 내적, 외적 등의 기본적인 연산을 코드로 구현하는 과정을 보여주고, 포인트 그리드, 어트랙션, 로테이션 등 더 복잡한 예제를 통해 응용 방법을 제시했습니다. 또한, 매트릭스, 플레인, 좌표 시스템과 같은 고급 개념을 소개하며, 디자인 데이터를 다루는 데 있어 이러한 지오메트리 개념의 중요성을 강조했습니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 03 A: Lecture - Vector & Point Data Structure",
-        "id": "4fbrRbY7xTAreu9tyLAjng",
-        "lan": "eng",
-        "description": "This course introduces the fundamental concepts of vector and point data structures in a computational design context. It explains how real-world information can be translated into vector data, which represents magnitude and direction, and raster data, which is like a digital image. The importance of coordinate systems in interpreting these numerical data points is stressed, and different measurement systems like Euclidean and Manhattan distances are discussed. The lecture further explores basic vector operations such as scaling, addition, subtraction, and dot and cross products, highlighting how these operations are crucial for understanding the relationships between vectors and solving geometric problems like calculating angles, finding midpoints, and performing projections. Finally, the concept of transformations using matrices to manipulate geometric data is briefly touched upon, emphasizing how these core principles underpin much of computational design.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 03 A: Lecture - 벡터 & 포인트 데이터 구조 / Vector & Point Data Structure",
-        "id": "5fU2H2MleYuSJtoQlsQnVH",
-        "lan": "kor",
-        "description": "강의 자료는 디자인에서 벡터 데이터와 포인트 데이터라는 두 가지 기본 데이터 유형과 이들이 계산 디자인에서 어떻게 사용되는지 설명합니다. 핵심 아이디어는 같은 숫자가 좌표계의 맥락에 따라 점(위치) 또는 벡터(방향 및 크기)로 해석될 수 있다는 것입니다. 또한 거리 측정을 위한 다양한 방법과 길이, 스케일링, 덧셈, 뺄셈, 내적, 외적과 같은 필수적인 벡터 연산에 대해서도 다룹니다. 궁극적으로 이러한 개념들은 포인트 그리드의 개념과 변환 및 평면의 사용과 연결되며, 대부분의 기하학적 문제를 해결하기 위해 벡터 개념을 이해하는 것이 중요함을 강조합니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 02 B: Workshop - Programming & Data Processing for Designers",
-        "id": "368CmvY9Hh2QpRkkKbHLyh",
-        "lan": "eng",
-        "description": "This workshop lecture provides an introduction to programming and data processing, specifically within the Grasshopper environment. The instructor guides attendees through basic Python syntax and data structures like lists, strings, loops, and conditional statements, emphasizing the importance of understanding the underlying logic behind visual components. Key concepts demonstrated include manipulating numerical data, working with lists, using functions for tasks like mapping data between different domains, and generating random numbers. The lecture encourages hands-on practice by recreating visual component functionalities through coding, ultimately aiming for students to develop the ability to translate their design ideas into code and handle various data types and structures within the Grasshopper workflow.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 02 B: Workshop - 디자이너를 위한 프로그래밍 & 데이터 구조 / Programming & Data Processing",
-        "id": "2Uvin9znU9Kn21TDGAR9DM",
-        "lan": "kor",
-        "description": "데이터 인 디자인 수업의 프로그래밍 및 데이터 처리 워크숍 내용을 담고 있습니다. 강사는 학생들이 디자인 배경을 가지고 있음을 고려하여 파이썬의 기본 개념과 Grasshopper 및 Rhino와의 통합을 중심으로 설명합니다. 주요 내용은 개발 환경 설정(웹사이트, GitHub, Jupyter Notebook, VS Code, Grasshopper, RhinoScriptSyntax) 소개, 파이썬의 변수, 자료형, 연산자, 조건문, 반복문과 같은 기초 문법 학습, 그리고 데이터 구조(리스트) 및 Rhino 지오메트리 객체 처리를 포함합니다. 강사는 실습의 중요성을 반복적으로 강조하며, Grasshopper 컴포넌트의 기능을 파이썬 코드로 구현해보는 연습을 권장하고 기본적인 RhinoScriptSyntax 활용 능력을 최소 목표로 제시합니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 02 A: Lecture - Programming & Data Processing for Designers",
-        "id": "0yhAPXWijwr6GIIwKDLI90",
-        "lan": "eng",
-        "description": "These sources present a compelling argument for the integration of data and computation into the field of design. They emphasize that future success in design hinges not on predicting fleeting trends, but on mastering enduring principles, problem-solving skills, and computational thinking. The lecture posits that understanding how to translate design concepts into quantifiable data structures—like vectors, rasters, and graphs—and then processing this data through code and algorithms is essential for creating powerful, iterative, and optimized design solutions. Ultimately, the material stresses the importance of hands-on coding practice, focusing on fundamental concepts like APIs, to enable designers to leverage the growing power of digital infrastructure.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 02 A: Lecture - 디자이너를 위한 프로그래밍 & 데이터 구조 / Programming & Data Processing",
-        "id": "226157Ln7l7XLPtsJhaqdT",
-        "lan": "kor",
-        "description": "강의 발췌본과 브리핑 문서는 데이터와 코드가 디자인 분야에 미치는 영향에 대해 설명합니다. 미래의 디자인 트렌드를 예측하기보다는 변하지 않을 원리와 문제 해결에 필요한 컴퓨팅 사고의 중요성을 강조하며, 데이터를 디자인 개체로 이해하고 벡터, 래스터, 그래프 등 다양한 데이터 구조를 활용하여 디자인 문제를 해결하는 방법을 다룹니다. 또한, 디자인 프로세스를 코드로 변환하고 반복과 최적화를 통해 효율적인 디자인을 구현하며, API 이해와 꾸준한 코딩 연습이 디자이너에게 필수적인 역량임을 역설합니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
+	{
+		"title": "Class 18 A: Course Summary Session - Data in Design ",
+		"id": "7dEPjGx0IGzZ1uJTpyTWBz",
+		"lan": "eng",
+		"description": "The provided sources summarize a 'Data In Design' course, emphasizing its core objective to teach students how to codify design processes using computational methodologies. The curriculum, structured around 17 sections and over 100 modules, covers topics from basic coding and geometry to advanced concepts like AI, data visualization, and software development for design. Students were guided to apply computational thinking through weekly assignments culminating in a final project, which also served as the primary assessment. The course materials, including lectures, slides, and podcasts, were designed to support continuous learning, with a final review session featuring expert feedback to reinforce student understanding and growth.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 18 A: 수업 요약 - Summary Session - Data in Design ",
+		"id": "6ZYu4uxDvBDcW9Uw7dicUH",
+		"lan": "kor",
+		"description": "한 학기 동안 진행된 디자인 관련 수업의 최종 복습 세션입니다. 제공된 자료들은 '데이터 인 디자인'이라는 과정을 통해 컴퓨테이션 디자인 방법론을 활용하여 디자인 프로세스를 코드화하는 방법을 설명합니다. 본 수업은 디자인 도메인 지식과 컴퓨터 공학 및 수치 해석 이해를 결합하여 디자인 사이언스 엔지니어링 관점을 함양하는 것을 목표로 합니다. 학생들은 데이터 형식, 프로세스 코드화, 다양한 디자인 알고리즘 및 시각화 기법을 학습하며, 최종 프로젝트를 통해 실질적인 컴퓨테이셔널 사고 적용 능력을 평가받습니다. 이 과정은 약 1900개의 슬라이드, 100개 이상의 모듈, 40시간의 강의 등 풍부한 교육 자료를 제공하며, 전문가들의 최종 리뷰와 피드백으로 마무리됩니다. 궁극적으로 디자인 단계에서 데이터를 명시적 또는 암묵적으로 활용하는 방법에 중점을 둡니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 17 B: Workshop - CAD System Application & Development for Design Research and Project",
+		"id": "16x8uefYTT8Ho00LRGPQ4P",
+		"lan": "eng",
+		"description": "The provided sources offer an overview of computational design software development, emphasizing the integration of data design principles. They explore various development environments and tools, such as Unity for cross-platform deployment and Three.js/Babylon.js for web-based 3D graphics, alongside fundamental concepts like design process pipelining and event handling. The materials also discuss the importance of building personal software libraries and the philosophical underpinnings of a computational designer, stressing continuous learning and meta-cognition to challenge conventional approaches. Ultimately, the content aims to guide students in applying these concepts to develop and distribute meaningful software for their design projects.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 17 B: Workshop - 디자인 연구와 프로젝트를 위한 CAD 도구 개발 / CAD System Application & Development for Design Research and Project",
+		"id": "2wPZ4joNbKlib8bfipcUiW",
+		"lan": "kor",
+		"description": "해당 강연은 데이터 디자인 및 컴퓨테이션 디자인 분야에서 소프트웨어 개발과 관련된 중요한 개념들을 다룹니다. 강연자는 다양한 프로그래밍 언어와 개발 환경을 소개하며, 2D, 3D 그래픽스 및 매핑을 구현하는 방법들을 설명합니다. 특히, Unity, Three.js, Babylon.js와 같은 도구들을 활용한 렌더링 엔진과 파이프라인 구축에 초점을 맞춥니다. 또한, 컴포넌트 중심 프로그래밍 및 이벤트 처리 방식과 같은 소프트웨어 설계 원칙들을 강조하며, Rhino/Grasshopper 플러그인 개발과 같은 디자인 소프트웨어 확장의 가능성을 제시합니다. 궁극적으로 이 강연은 학생들이 컴퓨테이션 디자이너로서 지속 가능하고 경쟁력 있는 기술 활용 능력을 갖출 수 있도록 돕는 데 목적이 있습니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 17 A: Lecture - CAD System Application & Development for Design Research and Project",
+		"id": "0wA50kgapllqNbBSQ3foKE",
+		"lan": "eng",
+		"description": "The sources discuss the development of CAD software, emphasizing its role as a 'software revolution' that transforms theoretical knowledge into executable and distributable systems for design and research. They highlight the fundamental differences between traditional design iteration and the methodical, step-by-step approach of software development, stressing the importance of structured architecture using concepts like front-end/back-end distinctions and the MVC (Model-View-Controller) design pattern. The lectures also explore object-oriented programming (OOP) for building hierarchical geometric data, the significance of rendering engines and performance optimization (including GPU-based parallel processing), and the crucial role of UI/UX principles in creating effective and user-friendly software. Ultimately, the material frames software development as a process of defining states, relationships, and rules to codify complex design processes, with a concluding motivational message about problem-solving and persistence.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 17 A: Lecture - 디자인 연구와 프로젝트를 위한 CAD 도구 개발 / CAD System Application & Development for Design Research and Project",
+		"id": "5Y38lYnLjp48do20dMDEJQ",
+		"lan": "kor",
+		"description": "제공된 자료는 CAD 소프트웨어 개발의 핵심 원리와 디자인 혁신에 대한 포괄적인 강의 내용을 담고 있습니다. 강의는 알고리즘과 데이터 처리를 넘어 디자인 프로세스를 실행 가능한 소프트웨어 시스템으로 패키징하는 것이 21세기 소프트웨어 혁명의 본질임을 강조합니다. 또한, 전통적인 디자인 개발과 달리 소프트웨어 개발이 점진적이고 체계적인 접근 방식을 요구하며, MVC(모델-뷰-컨트롤러)와 같은 디자인 패턴 및 객체 지향 프로그래밍(OOP)을 활용한 계층적 구조화의 중요성을 역설합니다. 최종적으로는 사용자 인터페이스(UI)와 사용자 경험(UX)의 중요성, 그리고 데이터, 관계, 규칙의 시스템으로서의 소프트웨어에 대한 이해를 바탕으로 문제 해결 능력과 꾸준한 노력을 통해 가치 있는 디자이너로 성장할 것을 독려합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 16 A: Lecture - Design visualization",
+		"id": "1bH6W3a2FTnZTXfDxWNmIk",
+		"lan": "eng",
+		"description": "These sources provide an extensive overview of design visualization, encompassing its broad definition and practical applications in fields like architectural and product design. The lectures and accompanying document emphasize the technical principles behind creating visuals, including rendering processes, camera techniques, lighting, and post-production. Significant attention is given to animation and simulation methods for depicting movement and processes, alongside numerous real-world examples of commercial, artistic, and research-based visualization projects. Ultimately, the materials highlight that effective design visualization goes beyond mere presentation, focusing on conveying meaning and facilitating understanding through various visual strategies and a blend of technical skill and artistic vision.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 16 A: Lecture - 디자인 시각화 / Design visualization",
+		"id": "4RCRwxWccPMare2F4ctY2c",
+		"lan": "kor",
+		"description": "강의자는 디자인 시각화의 중요성과 다양한 기법을 폭넓게 설명합니다. 여기에는 3D 모델링 및 렌더링, 애니메이션, 그리고 모션 트래킹과 같은 포스트 프로덕션 기술이 포함됩니다. 또한, 카메라 앵글과 구도가 디자인 의도를 전달하는 데 어떻게 사용될 수 있는지 논하고, 데이터 시각화 및 인터랙티브 비주얼라이제이션 도구를 언급하며 분야의 깊이와 넓이를 강조합니다. 강의자는 자신의 건축 및 시각화 프로젝트 경험을 예시로 들어 설명하며, 시각화의 다양한 응용 가능성을 제시합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 15 A: Lecture - Digital Mapping & GIS for visualization",
+		"id": "3jc58aDNc6G5vY3ECM5V5U",
+		"lan": "eng",
+		"description": "This lecture is about digital mapping and GIS for visualization, discussing how these tools are crucial for various design fields like architecture and urban planning. The lecture covers data types like vector and raster data, file formats such as GeoJSON and Shapefiles, and common GIS operations like buffering and dissolving. It emphasizes how mapping helps to uncover insights from data and explores different projection methods and visualization techniques, including animation and interactive maps, using various libraries and tools. The material also provides code examples and resources for practical application of these concepts.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 15 A: Lecture - 디지털 매핑 & 시각화를 위한 GIS / Digital Mapping & GIS for visualization",
+		"id": "0w0nrhXDf2abRmbCNiDdoq",
+		"lan": "kor",
+		"description": "이 수업은 디지털 매핑과 GIS 시각화의 핵심 내용을 다룹니다. 강의 발췌록은 매핑이 단순히 정보를 나타내는 것을 넘어 인사이트를 추출하는 과정임을 강조하며, 다양한 데이터 유형과 구조(GeoJSON, Shapefile, 벡터, 래스터)를 설명합니다. 또한, 지오 프로세싱 작업(예: 버퍼, 디졸브)과 지도 일반화(예: 단순화, 클러스터링) 기법을 소개하고, 지도 투영의 중요성과 왜곡에 대해 논합니다. 요약 문서는 이러한 강의 내용을 구조화하여, 매핑을 통해 변화를 촉구하고 정보를 기록 및 전달하는 도구로 활용하는 관점을 제시하며, 실무에 유용한 다양한 도구와 라이브러리 및 상호 작용적 매핑 기법(애니메이션, 스토리텔링)을 언급합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 14 A: Lecture - Data visualization",
+		"id": "7KJrZaLbp0WFBUS6jy0mVy",
+		"lan": "eng",
+		"description": "This lecture consists of excerpts from two video lectures and a related briefing document focusing on the topic of data visualization within a design context. The lectures emphasize that data requires visualization to be understood by humans, serving both for analysis to uncover patterns and for communication to convey insights effectively. They outline a three-stage process: recording, analyzing, and communicating data visually, highlighting the distinct strengths of human visual perception and computer calculation in this process. The materials also discuss principles for creating effective visualizations, including maintaining graphical integrity and considering human cognitive limitations through techniques like chunking and appropriate scaling, while also addressing the potential for bias and the importance of interaction with data in modern visualization.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 14 A: Lecture - 데이터 시각화 / Data visualization",
+		"id": "7zTzUDmRdJsgtnKJsNVl4Q",
+		"lan": "kor",
+		"description": "이 강의는 데이터 시각화에 대한 강연 내용을 담고 있습니다. 이 강연은 특히 디자이너 관점에서 데이터를 시각적으로 표현하는 것의 중요성과 다양한 시각화 기법 및 원리를 다룹니다. 좋은 시각화의 특징과 나쁜 시각화의 예시를 통해 정보의 무결성과 효율적인 정보 전달 방법을 강조하며, 시각 정보 처리 방식과 관련된 인지 과학적 측면도 함께 설명합니다. 또한, 데이터 시각화 과정에서의 상호작용(인터랙션)과 데이터 타입에 따른 적절한 시각화 도구 선택에 대해서도 언급하고 있습니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 13 A: Lecture - Dynamics & Agent System",
+		"id": "7i8IeRCKKRIW1qQ82O6QuD",
+		"lan": "eng",
+		"description": "These sources, a lecture series and accompanying briefing documents, provide an overview of Dynamics and Agent Systems within the context of Data in Design, building on foundational concepts like geometry and algorithms. They explain how dynamic systems, which account for time-dependent states, and agent systems, which model the behaviors and interactions of individual components within an environment, offer powerful approaches for tackling complex design challenges. Spring models and particle systems are highlighted as core examples of dynamic simulation, while the Flocking/Boids algorithm illustrates collective agent behavior. The lectures strongly emphasize the necessity of Object-Oriented Programming (OOP) for structuring these systems and the importance of hands-on coding for practical understanding, concluding that formulating design problems in a computationally solvable way is key to leveraging these methods for generating emergent and interactive designs.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 13 A: Lecture - 다이내믹스 & 에이전트 시스템 / Dynamics & Agent System",
+		"id": "4kie7qX4M04NQm0aKWWxk0",
+		"lan": "kor",
+		"description": "제공된 강의 발췌문은 디자인 분야에서의 다이나믹스 및 에이전트 시스템 개념을 소개합니다. 강의는 시간의 흐름과 요소 간 상호작용을 통해 변화하는 시스템을 구축하는 방법을 설명하며, 스프링 모델이나 파티클 시스템과 같은 동적 시뮬레이션 기법을 예시로 제시합니다. 또한, 각각 독립적인 행동 규칙을 가진 에이전트들이 환경과 상호작용하며 집단적인 결과를 만들어내는 에이전트 시스템, 특히 플로킹 알고리즘을 다룹니다. 마지막으로, 이러한 시스템을 구현하기 위해 객체 지향 프로그래밍(OOP)의 중요성을 강조하며, 설계 문제를 코드로 변환하고 다양한 매개변수를 조정하여 원하는 결과를 얻는 과정의 핵심을 설명합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 12 B: Lecture - Design Algorithm & Optimization",
+		"id": "4TyC1OdK7ZrLZrnccC4Ub1",
+		"lan": "eng",
+		"description": "These sources, primarily drawn from a lecture on design algorithms and optimization, introduce algorithmic thinking as a method for tackling design challenges. They discuss bottom-up approaches that build from foundational data structures and algorithms, contrasting them with top-down approaches that start with the design problem itself. The lecture explains both deterministic algorithms, which yield consistent results, and stochastic methods, which incorporate randomness, as valuable tools for finding optimal or best solutions. Crucially, the sources emphasize the need for quantifiable metrics and objective functions to evaluate and optimize designs, illustrating these concepts through real-world examples and the notion of the Pareto front, which defines the boundary of optimal design parameters.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 12 B: Lecture - 디자인 알고리즘과 최적화 / Design Algorithm & Optimization",
+		"id": "4BKv8hIfUbflrOoBwOz1J1",
+		"lan": "kor",
+		"description": "강의 발췌록은 디자인 문제 해결에 알고리즘적 사고를 적용하는 방법을 다룹니다. 강사는 하향식 접근 방식을 강조하며, 디자인 문제에서 시작하여 해결에 필요한 알고리즘을 식별하는 과정을 설명합니다. 텍스트 색상 대비 개선이나 CAD 스내핑과 같은 실제 디자인 문제 사례를 통해 알고리즘 적용을 보여줍니다. 또한, 입력에 따라 결과가 일관적인 결정론적 알고리즘과 무작위성을 포함하는 확률적 알고리즘의 차이를 설명하고, 디자인 최적화에서 목표 함수와 평가 지표의 중요성을 강조합니다. 궁극적으로 강의는 디자인 프로세스를 정량화하고 알고리즘화하는 컴퓨팅적 사고방식을 장려하며, 기본 데이터 구조와 알고리즘이 복잡한 문제를 해결하는 데 어떻게 활용되는지 보여줍니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 12 A: Lecture - Design Algorithm & Optimization",
+		"id": "5ojJPRnPab66y2u4t6jFwt",
+		"lan": "eng",
+		"description": "These sources primarily focus on design algorithms and optimization, arguing that these are not merely technical tools but are inherently integrated with the design process itself. They emphasize the importance of computational thinking for designers and suggest that understanding an engineering mindset, particularly in software, is crucial for applying computational methods effectively. The texts provide an overview of foundational algorithm types (like deterministic vs. stochastic and brute force vs. heuristic) and essential data structures (including lists, graphs, and queues), illustrating their relevance through practical design examples. Ultimately, the sources posit that algorithms and optimization are ways for designers to express their intentions and guide their creative endeavors.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 12 A: Lecture - 디자인 알고리즘과 최적화 / Design Algorithm & Optimization",
+		"id": "4lfr2k0HwboXwfZiC7Z5X8",
+		"lan": "kor",
+		"description": "수업에서는 디자인 알고리즘과 옵티마이제이션이 디자인 프로세스와 분리될 수 없는 본질적인 요소이며, 디자이너의 의도와 방향성을 구체화하는 도구로 작용함을 강조합니다. 디자인과 엔지니어링, 알고리즘과 최적화는 모두 목표를 달성하기 위한 일련의 단계(알고리즘)를 설정하고 이를 효율화하는 과정이라는 점에서 동일하게 이해될 수 있습니다. 효과적인 컴퓨테이셔널 디자인을 위해서는 엔지니어링적 사고방식, 특히 소프트웨어 엔지니어의 접근 방식을 이해하는 것이 중요하며, 컴퓨테이셔널 씽킹이 핵심 능력으로 제시됩니다. 또한 결정론적/확률적, 완전 탐색/휴리스틱과 같은 기본적인 알고리즘 유형과 선형/비선형 데이터 구조에 대한 이해가 디자인 문제 해결에 필수적임을 다양한 사례를 통해 설명합니다. 궁극적으로 자료는 디자이너가 데이터와 컴퓨테이션을 활용하여 디자인 역량을 강화하기 위해 알고리즘적 사고와 기본 개념을 습득하는 것이 중요하다고 역설합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 11 B: Lecture - AI-aided Design",
+		"id": "5bM8uBCSn97ZBxNNWinktK",
+		"lan": "eng",
+		"description": "This presentation explores AI-aided design, starting with the fundamental concept of generative models like pix2pix, which learn to create new images based on paired input and output data. It then discusses more complex applications such as creating 3D objects from sketches and generating maps using geographical data. The speaker also introduces Large Language Models (LLMs), explaining their architecture, the evolution from RNNs to Transformers, and the concept of fine-tuning and embedding to customize their behavior and knowledge. The presentation concludes by demonstrating practical uses of LLMs, including local execution of models and exploring various types of machine learning problems such as classification and regression, showcasing how AI models can be applied to different datasets like medical or financial information.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 11 B: Lecture - 인공지능 활용 디자인 / AI-aided Design",
+		"id": "0NEydsWneBAWGvQ3hjPq5v",
+		"lan": "kor",
+		"description": "디자인 분야에서 데이터를 활용한 인공지능(AI)의 적용에 대해 논합니다. 특히, 도시 분석, 데이터 보간, 이미지 분석 등을 위한 분석적 AI 모델의 사용 사례와 함께, 새로운 콘텐츠를 생성하는 생성적 AI 모델의 다양한 유형과 활용 방법을 소개합니다. 또한, 데이터를 해석하고 활용할 때 흔히 발생하는 통계적 오류를 피하고 도메인 지식을 적용하는 것의 중요성을 강조하며, 이러한 AI 도구와 모델에 접근할 수 있는 다양한 실용적인 자원들을 제시합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 11 A: Lecture - AI-aided Design",
+		"id": "0pM89fIgYM6Jul5f06Iqaq",
+		"lan": "eng",
+		"description": "This presentation examines how machine learning and AI can be applied to design processes, emphasizing the importance of data as a design material. It discusses various data types and how they influence the choice of analytical and generative models. The material explores essential concepts like data preprocessing (scaling, handling missing values, outlier removal), dimensional reduction (PCA, t-SNE), and the crucial role of data splitting (training, validation, testing) to create generic and robust models. Different machine learning problems such as regression, classification, and clustering are illustrated with examples, along with techniques like ensemble modeling and various neural network architectures (dense, convolutional, recurrent).",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 11 A: Lecture - 인공지능 활용 디자인 / AI-aided Design",
+		"id": "16rZan91H1AyFYs48xqdVw",
+		"lan": "kor",
+		"description": "디자인 맥락에서 데이터 처리 도구로서의 AI와 머신 러닝을 소개합니다. 강의 발췌록은 데이터 유형, 시각화의 중요성, 전처리 기술(결측값 처리, 이상치 제거, 스케일링), 차원 축소(PCA, t-SNE) 등 실제 구현에 필요한 핵심 개념들을 예시와 함께 설명합니다. 또한, 회귀 및 분류 문제, 다양한 신경망 아키텍처, 데이터 분할의 중요성, 앙상블 방법을 다루며 모델 일반화와 과적합 방지 필요성을 강조합니다. 브리핑 문서는 이러한 강의의 주요 내용을 요약하여 데이터 준비 및 품질의 영향력을 재차 강조하고, '가비지 인, 가비지 아웃' 원칙과 과적합 문제를 실제 예시(스마트 드로잉 앱 개발 시 발생한 문제점)를 통해 설명합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 D: Lecture - AI for Designers",
+		"id": "0vrcMQnvgdPaO8x54ZB3hp",
+		"lan": "eng",
+		"description": "These sources, including a video lecture and a briefing document, focus on the growing importance of AI and data skills for designers. They emphasize the necessity of learning fundamental libraries like NumPy and Pandas for data processing and analysis, likening their importance to design tools like Photoshop or SketchUp for architects. The materials cover key machine learning libraries such as PyTorch and TensorFlow, different types of datasets, and basic machine learning concepts, while encouraging practical learning through provided resources and exercises. Ultimately, the sources advocate for understanding the underlying principles of data science rather than simply following trends.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 D: Lecture - 디자이너를 위한 인공지능 / AI for Designers",
+		"id": "2zyaTzHdgWUWoNGwuFMjKi",
+		"lan": "kor",
+		"description": "강의 자료는 데이터 과학 및 머신러닝 입문자를 위한 내용으로, 핵심 라이브러리와 기본 개념을 다룹니다. TensorFlow, PyTorch, 사이킷런 등 다양한 머신러닝 프레임워크를 소개하며, 특히 데이터 처리를 위한 필수 도구인 NumPy와 Pandas의 중요성을 강조합니다. 기본적인 데이터 타입, 배열 처리, 데이터 조작 및 분석 방법 등을 설명하고, 실습을 통해 기계 학습 문제를 이해하도록 돕습니다. 학습 자료와 리소스를 안내하며 꾸준한 연습의 필요성을 역설합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 C: Lecture - AI for Designers",
+		"id": "69BzzAAfliFcHYFj7s3h8q",
+		"lan": "eng",
+		"description": "These sources introduce artificial intelligence, primarily focusing on machine learning as a method to achieve AI goals, using the relatable analogy of placing points and drawing lines to explain the core idea of pattern finding in data. They emphasize that understanding the problem and the available data types is crucial for choosing appropriate machine learning models, highlighting the necessity of good, clean data and the importance of data preprocessing steps like cleaning noisy data, handling missing values, and scaling features. The texts also touch upon different types of machine learning problems such as regression and classification, discuss concepts like the curse of dimensionality and techniques for dimensionality reduction, and briefly introduce neural networks and the concept of reinforcement learning while stressing the significance of domain knowledge and computational thinking for designers seeking to leverage these technologies. Finally, the need for GPU and parallel computing for efficient training is explained, along with an outline of a typical data-driven design process.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 C: Lecture - 디자이너를 위한 인공지능 / AI for Designers",
+		"id": "0dDiWgU6keU7A4EBVrVRLF",
+		"lan": "kor",
+		"description": "본 영상 강의는 인공지능(AI), 특히 머신 러닝(Machine Learning)의 기본 개념과 활용 방안에 대해 설명합니다. AI를 구현하는 방법론으로서 머신 러닝을 소개하며, 데이터를 기반으로 패턴을 찾고 예측하거나 분류하는 과정을 중점적으로 다룹니다. 강의는 **데이터 준비 및 전처리(missing values, outliers, scaling, normalization 등)**의 중요성을 강조하고, 선형 회귀(linear regression), 분류(classification) 등의 문제 해결 방법과 **모델 평가 지표(R-squared 등)**에 대해 설명합니다. 또한, 차원의 저주(curse of dimensionality), 과적합(overfitting) 및 과소적합(underfitting) 문제, 그리고 인공 신경망(Artificial Neural Networks, ANN), 합성곱 신경망(Convolutional Neural Networks, CNN) 등의 **다양한 모델과 학습 방법(supervised, unsupervised, reinforcement learning)**을 소개합니다. 궁극적으로 문제 해결의 관점에서 적절한 데이터와 모델을 선택하는 것의 중요성을 역설합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 B: Lecture - AI for Designers",
+		"id": "11eN7MQvJiLiXTgO0bzsvz",
+		"lan": "eng",
+		"description": "These lectures discuss artificial intelligence (AI), particularly focusing on the distinctions between analytical AI, which understands and explains data, and generative AI, which creates new content. The speaker raises concerns about the current hype around generative AI, arguing that many users lack a fundamental understanding of machine learning models and data structures. A significant issue highlighted is hallucination in generative models, where they produce incorrect or nonsensical information due to limitations in their training data, prompting a discussion on creativity versus error. The lectures also explore the complexities of applying AI to subjective or biased topics, the debate around general artificial intelligence (AGI) and superintelligence, and the importance of understanding the data and biases that influence AI outputs. Ultimately, the speaker emphasizes the need for critical thinking when engaging with AI and views it as a powerful tool for augmenting existing processes and increasing efficiency.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 B: Lecture - 디자이너를 위한 인공지능 / AI for Designers",
+		"id": "7r4iVOWHGmXUfbB3KRs5yi",
+		"lan": "kor",
+		"description": "본 강의 발췌록은 디자이너를 위한 AI를 주제로, 특히 생성 AI에 대한 피상적인 이해에 대한 강사의 우려를 중심으로 전개됩니다. 강사는 디자이너들이 데이터, 알고리즘, 그리고 기본적인 기계 학습 모델에 대한 근본적인 이해 없이 생성 AI의 신기함에만 집중한다고 지적하며, 이는 결국 계산적 접근 방식의 효과적인 통합을 방해한다고 강조합니다. 강의는 분석 AI와 생성 AI의 차이점, 환각 현상과 그 원인(보간법), 데이터와 편향의 중요성, 그리고 보간법과 외삽법의 차이 등 핵심적인 AI 개념을 설명하며, 디자이너들이 도구 자체보다는 해결하려는 문제를 먼저 이해하고, AI 기술을 비판적으로 접근해야 함을 역설합니다. 또한, AI의 책임, 투명성, 공정성과 같은 윤리적 고려 사항의 중요성을 강조하며, 현재의 AI는 기존 프로세스를 강화하고 효율성을 높이는 데이터 처리 도구로서 이해해야 한다고 결론짓습니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 A: Lecture - AI for Designers",
+		"id": "2hDhZZ7pIYc31GdIIEfEtW",
+		"lan": "eng",
+		"description": "These sources feature a lecture on AI for Designers, aiming to clarify common misunderstandings and highlight the importance of technical understanding over mere imagination. The speaker contrasts traditional programming (Software 1.0) with data-driven machine learning (Software 2.0), presenting AI fundamentally as data handling and an 'intelligence revolution' driven by speed and accessible knowledge. A core message is that designers must move beyond superficial trends and marketing hype to grasp the underlying principles and challenges, such as bias and the nature of errors, to effectively leverage AI. Ultimately, success with AI relies not on the tools themselves, but on a deep understanding of the problem to be solved.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 10 A: Lecture - 디자이너를 위한 인공지능 / AI for Designers",
+		"id": "6GFaRGtsWh4kqPCDDdzJ1P",
+		"lan": "kor",
+		"description": "강의 발췌록은 디자이너를 위한 인공지능(AI)을 주제로 하여, AI에 대한 일반적인 오해를 바로잡고, AI를 가능하게 하는 기술적 기반을 설명합니다. 특히 AI를 데이터 처리의 관점에서 접근하며, 전통적인 프로그래밍 방식(Software 1.0)과 데이터를 기반으로 모델을 구축하는 머신러닝 방식(Software 2.0)의 근본적인 차이점을 강조합니다. 강연자는 디자이너들이 AI를 단순한 유행이나 상상력에 의존하기보다는 기술적인 이해를 바탕으로 접근해야 함을 역설하고, AI가 마케팅 용어에 그치지 않고 실질적인 문제 해결 도구가 될 수 있음을 시사합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 09 B: Workshop - Raster: Pixel & Voxel map Data Structure",
+		"id": "1cvZYZXFOIDsAvHyn63gTE",
+		"lan": "eng",
+		"description": "These excerpts appear to be from two parts of a workshop or lecture focused on data structures in design, specifically pixels and voxels. The instructor guides participants through Python code examples illustrating how to create and manipulate pixel and voxel grids, including concepts like connectivity, smoothing, and query operations based on location or data values. The material extends to demonstrating these concepts within Grasshopper 3D software, showing how to visualize and interact with the created grids. Additionally, the sources touch upon image processing techniques and their application in design contexts, highlighting concepts such as color blending, filtering, and spatial analysis using elevation or environmental data.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 09 B: Workshop - 래스터: 픽셀 & 복셀 데이터 구조 / Raster: Pixel & Voxel map Data Structure",
+		"id": "39YCsfRfoR2I6HkvjU5aJP",
+		"lan": "kor",
+		"description": "소스 자료는 픽셀과 복셀 데이터 구조를 활용한 컴퓨테이셔널 디자인 워크숍의 내용을 담고 있습니다. 이 자료는 연결성 정의와 데이터 스무딩이 픽셀 및 복셀 데이터 구조를 다루는 데 있어 가장 중요함을 강조하며, 주변 픽셀/복셀 간의 정보 전파 및 영향을 설명합니다. 또한, 이러한 데이터 구조를 활용하여 지형 생성, 데이터 시각화, 이미지 처리, 그리고 환경 분석 등 다양한 디자인 및 분석 작업을 수행하는 방법과 함께 기본적인 프로그래밍 개념 및 객체 지향 프로그래밍의 중요성을 역설합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 09 A: Lecture - Raster: Pixel & Voxel map Data Structure",
+		"id": "35Iny3nr9U5imi8ZDGqalF",
+		"lan": "eng",
+		"description": "These video lecture excerpts primarily discuss pixel and voxel data structures within the context of computational design, highlighting their importance in handling spatial information. The lectures explain how 2D images (pixels) and 3D volumes (voxels) can be understood as grids of numerical data, similar in concept to graphs but often better suited for continuous information. The speaker elaborates on how these data types enable image processing techniques, including color manipulation and filtering, and explores the use of color spaces and color computation (blending modes) for visualization and analysis. Finally, the lectures demonstrate the application of these data structures and techniques in various fields, such as geographical information systems, remote sensing, and design simulations, emphasizing their role in abstracting reality and facilitating computational workflows.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 09 A: Lecture - 래스터: 픽셀 & 복셀 데이터 구조 / Raster: Pixel & Voxel map Data Structure",
+		"id": "1i2tSldERLgoKn0cS2TaZw",
+		"lan": "kor",
+		"description": "강의 발췌록은 픽셀과 복셀이라는 기본적인 데이터 구조를 활용하여 공간 정보를 다루는 계산 설계의 개념을 설명합니다. 이 자료들은 이러한 구조가 그래프와 같은 기존의 데이터 표현 방식과 어떻게 관련이 있으면서도 연속적인 공간 데이터를 표현하고 조작하는 데 특히 적합한지를 강조합니다. 강의는 이미지 처리, 컬러 컴퓨테이션, 공간 분석 및 시뮬레이션에 대한 응용 사례를 제시하며, 복잡한 현실 데이터를 디지털 형식으로 추상화하고 필터를 적용하는 기법들을 소개합니다. 결국, 픽셀과 복셀 데이터 구조는 데이터 요소 간의 연결성과 관계를 정의하는 계산적 사고의 중요한 도구로 제시됩니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 08 B: Workshop - Graph & Network",
+		"id": "6WZJvsHl0OPghwlIsoQgjG",
+		"lan": "eng",
+		"description": "These excerpts showcase workshops focused on graph data structures and analysis within computational design contexts. The content covers foundational programming concepts like classes, nodes, and edges, explaining how to represent graph data, including handling positional information (XYZ) and creating weighted edges. Various graph algorithms, such as Breadth-First Search (BFS), Dijkstra's algorithm, and A search*, are discussed for tasks like finding the shortest path. The sources also demonstrate practical applications, such as cycle detection and topological sorting, and explore the use of external libraries like NetworkX and custom Grasshopper plugins for network analysis and visualization, emphasizing the importance of data cleaning and the strategic use of randomization with seeds.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 08 B: Workshop - 그래프 데이터 구조 / Graph & Network",
+		"id": "4tlBDZTFsGg55ZnZCzVZVb",
+		"lan": "kor",
+		"description": "제공된 영상 발췌록은 그래프 이론과 계산 디자인 응용을 소개하는 워크숍 내용을 다룹니다. 파이썬 및 그래스호퍼 환경에서 노드와 엣지로 구성된 그래프 구조를 구축하고 최단 경로 탐색, 사이클 감지, 가중치 그래프 분석 등 다양한 알고리즘을 구현 및 시각화하는 방법을 시연합니다. 또한, 객체 지향 프로그래밍을 통한 추상화와 코드 모듈화의 중요성을 강조하며, 라이브러리 활용과 직접 구현의 장단점을 비교하고 공간 분석 문제에 그래프 이론을 적용하는 예시를 제시합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 08 A: Lecture - Graph & Network",
+		"id": "7s52vFatRQmXA9PvusIAGx",
+		"lan": "eng",
+		"description": "These sources introduce graphs as a versatile nonlinear data structure fundamental for representing interconnectedness in various real-world and computational systems. They explain that graphs consist of nodes and edges, both capable of holding properties, and that their topology can be dynamically modified. The lectures and briefing document highlight different graph types, methods for computer representation, and essential graph algorithms like traversal (DFS, BFS), shortest path (Dijkstra, A*), minimum spanning tree, and centrality analysis, emphasizing their importance for abstracting reality and solving complex design problems computationally.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 08 A: Lecture - 그래프 데이터 구조 / Graph & Network",
+		"id": "6wGbMBKP7kPL5r4HK7TYnn",
+		"lan": "kor",
+		"description": "이 강좌는 그래프 데이터 구조에 대한 포괄적인 개요를 제공합니다. 특히 강사는 그래프의 기본 구성 요소인 노드와 엣지를 설명하고, 그래프가 도시 네트워크, 소셜 구조, 심지어 AI 알고리즘까지 포함한 다양한 실제 시스템을 모델링하는 데 어떻게 사용될 수 있는지 논의합니다. 또한, 방향 그래프와 가중치 그래프 등 다양한 그래프 유형과 깊이 우선 탐색(DFS) 및 **너비 우선 탐색(BFS)**과 같은 핵심 그래프 알고리즘을 소개합니다. 강좌는 그래프를 활용한 최단 경로 찾기, 최소 신장 트리 구성, 네트워크 분석 등 실용적인 적용 사례와 함께, 이러한 개념을 코딩하고 시각화하는 방법도 다룹니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 07 B: Workshop - Discretization & Mesh",
+		"id": "1rf8etvwzMjK59tC9B9fSG",
+		"lan": "eng",
+		"description": "These video excerpts discuss fundamental concepts of mesh geometry in computer graphics and architectural design, emphasizing the importance of data structures like vertices and faces to define 3D forms. The speaker illustrates how to programmatically create and manipulate meshes using various software libraries and languages, explaining topics like vertex and face normals, calculating centroids and areas, and applying transformations like offsets and twists. Key data concepts like serialization and different file formats for transferring mesh data are also introduced, alongside broader discussions on developing computational design thinking, creating evaluation metrics for design solutions, and the importance of consistent practice in mastering these skills.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 07 B: Workshop - 이산화: 매쉬 / Discretization & Mesh",
+		"id": "5rKfIS9rbZySifmnzMZlig",
+		"lan": "kor",
+		"description": "본 강좌 자료들은 디자인 분야에서 활용되는 컴퓨테이셔널 메시(Computational Mesh)의 기초를 다룹니다. 특히, 벌텍스(Vertex), 페이스(Face), 커넥티비티(Connectivity)와 같은 메시의 핵심 구성 요소를 이해하고, 1차원 및 2차원 데이터 구조를 활용하여 점(Point) 데이터를 표현하는 방법을 설명합니다. Rhino 및 Grasshopper 환경에서 메시를 생성, 조작, 분석하는 다양한 기법을 실습하며, 메시 데이터의 직렬화(Serialization) 개념과 일반적인 3D 파일 포맷에 대해서도 소개합니다. 궁극적으로, 데이터를 기반으로 디자인 문제를 접근하고 평가하기 위한 컴퓨테이셔널 사고방식의 중요성을 강조합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 07 A: Lecture - Discretization & Mesh",
+		"id": "3MGLkx6P0Wtuwqz59vt6hK",
+		"lan": "eng",
+		"description": "These sources, excerpts from a lecture and a briefing document, collectively highlight the importance of the mesh data structure within computational design. They establish computational design as a conceptual approach requiring programming proficiency to manage spatial information through various geometric data structures, particularly emphasizing how meshes facilitate discretization by converting continuous reality into finite data. The texts underscore the mesh's role as a universal structure for 3D software and data exchange, defined by vertices and connectivity, and explore its enhancement through additional information and advanced structures like the half-edge data structure. Furthermore, they discuss spatial partitioning techniques and contrast meshes with B-Rep surfaces, emphasizing the practical utility of meshes in diverse design and fabrication applications, while stressing the necessity of active learning and coding practice.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 07 A: Lecture - 이산화: 매쉬 / Discretization & Mesh",
+		"id": "1ChiZlrYdiMGLFvNN4kd2g",
+		"lan": "kor",
+		"description": "강의 자료 발췌문은 주로 공간 정보를 다루는 컴퓨테이셔널 디자인의 핵심 개념을 설명합니다. 강사는 프로그래밍의 중요성과 함께, 공간을 표현하는 기본 데이터 구조인 포인트, 라인, 커브, 서피스를 거쳐 매쉬를 상세히 논합니다. 특히, 현실 세계의 무한한 정보를 컴퓨터에서 유한하게 다루기 위한 **이산화(discretization)**의 개념을 강조하며, 매쉬가 보편적으로 사용되는 이유와 데이터 구조의 중요성을 설명합니다. 또한, 효율적인 정보 처리를 위한 **공간 분할 기법(spatial partitioning)**과 실제 응용 사례를 언급하며, 학생들에게 지속적인 코딩 연습과 질문을 통해 역량을 키울 것을 당부합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 06 B: Workshop - OOP and Design Data Structure",
+		"id": "7uuydPuQiCX04yg4EdtNlH",
+		"lan": "eng",
+		"description": "These sources collectively explain Object-Oriented Programming (OOP) and data structures, emphasizing their application in design and architecture. They highlight the importance of structuring and organizing data, particularly by combining data and its associated functions within classes. The materials define classes as templates and objects as their instances, while introducing core OOP concepts like inheritance, polymorphism, and encapsulation, illustrated with geometric examples such as vectors, points, and polygons. Finally, the sources discuss techniques for data persistence in environments like Grasshopper and encourage practical application through assignments and the abstracting of everyday objects.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 06 B: Workshop - 객체지향 & 디자인 데이터 구조 / OOP and Design Data Structure",
+		"id": "2Jq5UhmUsOLUhMIKaBOjX3",
+		"lan": "kor",
+		"description": "본 워크숍은 객체 지향 프로그래밍(OOP) 및 데이터 구조의 기본 원리를 소개하고, 디자인 및 건축 분야에서 데이터를 효율적으로 조직하고 관리하는 방법을 탐구합니다. 클래스와 객체의 개념을 통해 데이터와 함수를 결합하는 OOP의 핵심을 설명하고, 상속, 다형성, 캡슐화 등 주요 개념을 실제 예시로 보여줍니다. 또한 디자인 패턴을 소개하고, 지오메트리 데이터를 구조화하는 방법을 제시하며, Grasshopper 환경에서의 데이터 지속성 문제 해결 방안을 다룹니다. 다양한 실습과 과제를 통해 OOP 개념을 활용하여 현실 세계의 사물을 추상화하는 훈련의 중요성을 강조합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 06 A: Lecture - OOP and Design Data Structure",
+		"id": "2eExp7MSW9Mdu1PJpSoZwi",
+		"lan": "eng",
+		"description": "These sources, a lecture and a briefing document on the lecture, review core programming concepts for a 'Data In Design' class. The instructor emphasizes that learning programming is akin to learning a language, requiring consistent practice rather than sudden insight. The lecture introduces Object-Oriented Programming (OOP) as a crucial paradigm for organizing code, contrasting it with procedural programming and explaining concepts like classes, objects, and inheritance. Furthermore, the materials touch upon data structures, spatial information, AI applications, and the object-oriented structure of RhinoCommon, illustrating how these concepts are applied in computational design and real-world systems, including complex simulations. Finally, the lecture briefly mentions design patterns as advanced techniques for effectively utilizing OOP principles.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 06 A: Lecture - 객체지향 & 디자인 데이터 구조 / OOP and Design Data Structure",
+		"id": "1uKbdVyzMb3xG5GipZco48",
+		"lan": "kor",
+		"description": "해당 수업은 프로그래밍 언어와 데이터 구조에 대한 강의 내용을 담고 있으며, 특히 객체 지향 프로그래밍(OOP) 패러다임을 중점적으로 설명합니다. 강사는 프로그래밍을 언어에 비유하며 꾸준한 노출의 중요성을 강조하고, OOP가 기존 절차 지향 프로그래밍 방식과 어떻게 다른지, 그리고 복잡한 데이터를 구조화하고 관리하는 데 왜 유용한지를 예시를 통해 보여줍니다. 또한, 클래스와 객체의 차이, 상속 개념, 그리고 라이노 커먼의 객체 구조를 예로 들어 OOP의 실제 적용 사례를 제시하며, 이러한 사고 방식이 디자인 프로젝트를 관리하고 알고리즘을 구성하는 데 도움이 된다고 설명합니다. 마지막으로 디자인 패턴을 간략하게 소개하며 OOP 구현을 위한 고급 기법에 대해서도 언급합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
 
-    {
-        "title": "Class 01 B: Lecture - Data & Design - Code for Design",
-        "id": "2FODXBbRsd6oEW0qel7ENW",
-        "lan": "eng",
-        "description": "These sources introduce students to the foundational concepts of programming and data processing within the realm of computational design. The lecture emphasizes that programming is fundamentally data processing, requiring an understanding of data types and data structures to represent and manipulate information effectively. A key takeaway is the importance of applying computational thinking—breaking down problems and creating explicit instructions—to design challenges, distinguishing this from traditional implicit processes. The instructor also touches on essential skills like debugging and utilizing APIs to interact with design software, highlighting how embracing technology and its underlying principles is crucial for designers.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 01 B: Lecture - 데이터 & 디자인 / Data & Design, Code for Design",
-        "id": "75u5aWLuN7vaC8qsYwsjIo",
-        "lan": "kor",
-        "description": "데이터 디자인 수업의 두 번째 강의 이며, 데이터와 컴퓨테이션이 디자인 분야에 통합되는 중요성을 강조합니다. 미래의 성공은 빠르게 변화하는 트렌드 예측보다 변하지 않는 원리, 문제 해결 능력, 컴퓨테이셔널 사고에 대한 깊이 있는 이해에 달려 있다고 주장합니다. 강의는 디자인 개념을 벡터, 래스터, 그래프와 같은 데이터 구조로 변환하고, 이를 코드와 알고리즘을 통해 처리하는 능력이 강력하고 반복적이며 최적화된 디자인 솔루션을 만드는 데 필수적이라고 설명합니다. 궁극적으로 자료는 디자이너들이 디지털 인프라의 발전된 능력을 활용할 수 있도록 API와 같은 기초 개념에 집중하며 직접 코딩을 연습하는 것이 중요함을 역설합니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 01 A: Lecture - Data & Design - Code for Design",
-        "id": "2jhS9EefkvNVQWSJkD5XLp",
-        "lan": "eng",
-        "description": "These sources discuss the evolving role of data and computational thinking in design, highlighting how data is becoming a fundamental `material` akin to traditional building materials. The speaker, an expert in both architectural design and software engineering, emphasizes the necessity for designers to understand how to digitize reality and codify design processes, utilizing concepts like data structures (vector, raster, graph) and algorithms. The texts also explore the difference between traditional deductive problem-solving and inductive approaches like machine learning, stressing the importance of choosing the right method and focusing on unchanging foundational principles in a rapidly advancing technological landscape.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Class 01 A: Lecture - 데이터 & 디자인 / Data & Design, Code for Design",
-        "id": "2NRwcHN7xOM1pDFgDdEUeC",
-        "lan": "kor",
-        "description": "본 발표 자료는 건축 설계, 소프트웨어 엔지니어링, 컴퓨테이션 디자인 분야의 전문가가 디자인의 미래에서 데이터의 역할을 탐구하는 내용을 담고 있습니다. 연사는 데이터를 새로운 디자인 재료로 제시하며, 현실 정보를 디지털화하고 디자인 과정을 코드화하는 것의 중요성을 강조합니다. 또한, 문제 해결을 위한 컴퓨테이셔널 사고와 데이터 구조, 알고리즘에 대한 이해의 필요성을 역설합니다. 빠르게 변화하는 기술 속에서도 변하지 않는 기초 개념에 집중하는 것이 중요하며, 다양한 사례 연구를 통해 데이터와 컴퓨테이셔널 접근 방식이 디자인 분야에 적용될 수 있음을 보여줍니다.",
-        "video": "",
-        "url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
-    },
-    {
-        "title": "Design Material:Data Utilization in Computation, buildSMART Conference 2024",
-        "id": "6kAqq7Z8XjHIc3UqhkH4nU",
-        "lan": "eng",
-        "description": "These sources discuss the evolving role of data and computational thinking in design, highlighting how data is becoming a fundamental `material` akin to traditional building materials. The speaker, an expert in both architectural design and software engineering, emphasizes the necessity for designers to understand how to digitize reality and codify design processes, utilizing concepts like data structures (vector, raster, graph) and algorithms. The texts also explore the difference between traditional deductive problem-solving and inductive approaches like machine learning, stressing the importance of choosing the right method and focusing on unchanging foundational principles in a rapidly advancing technological landscape.",
-        "video": "K0Y20rPuoJs"
-    },
-    {
-        "title": "Design Material:Data Utilization in Computation, buildSMART Conference 2024",
-        "id": "7lhTeAnM35fi4wpOwnnXzR",
-        "lan": "kor",
-        "description": "본 발표 자료는 건축 설계, 소프트웨어 엔지니어링, 컴퓨테이션 디자인 분야의 전문가가 디자인의 미래에서 데이터의 역할을 탐구하는 내용을 담고 있습니다. 연사는 데이터를 새로운 디자인 재료로 제시하며, 현실 정보를 디지털화하고 디자인 과정을 코드화하는 것의 중요성을 강조합니다. 또한, 문제 해결을 위한 컴퓨테이셔널 사고와 데이터 구조, 알고리즘에 대한 이해의 필요성을 역설합니다. 빠르게 변화하는 기술 속에서도 변하지 않는 기초 개념에 집중하는 것이 중요하며, 다양한 사례 연구를 통해 데이터와 컴퓨테이셔널 접근 방식이 디자인 분야에 적용될 수 있음을 보여줍니다.",
-        "video": "K0Y20rPuoJs"
-    }
+	{
+		"title": "Class 05 B: Workshop - Vector: Surface & Brep",
+		"id": "5yNqxWXTgH1nqYrxY6Mc5l",
+		"lan": "eng",
+		"description": "These video excerpts focus on the computational design process, specifically within the Rhino/Grasshopper environment. The speaker demonstrates how to programmatically create and manipulate geometric data, including points, curves, surfaces, and boundary representations (Breps), using both RhinoCommon and RhinoScript Syntax APIs, while highlighting their differences. Key concepts covered include data structures like lists and arrays, using loops to generate geometry, understanding vectors for direction and transformation, and exploring methods for surface analysis, such as calculating area, centroid, and curvature, often comparing programmatic results with built-in functions. The discussion also touches on Boolean operations and the importance of understanding object-oriented programming (OOP) and computational thinking for analyzing design processes and structuring code effectively.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 05 B: Workshop - 벡터: 서피스 & 비랩 / Vector: Surface & Brep",
+		"id": "5fF3ORcGG0iVspneiZCWVU",
+		"lan": "kor",
+		"description": "강의 영상과 보충 자료는 라이노와 그래스호퍼 환경에서 파이썬과 라이노스크립트 문법을 사용하여 벡터, 서피스, 브렙(Brep)과 같은 기하 데이터를 프로그래밍 방식으로 다루는 기본 개념을 설명합니다. 라이노스크립트 문법과 라이노커먼 API의 차이를 강조하며, 중첩 루프를 활용한 서피스 생성, 곡면의 특성 분석(면적, 무게중심, 곡률 등), 벡터의 개념 및 활용, 불리언 연산 등을 다룹니다. 또한, API 문서 활용 방법과 기하 데이터를 분해하는 능력의 중요성을 역설하며, 이러한 원리가 특정 플랫폼에 국한되지 않고 다른 환경에도 적용 가능함을 보여줍니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+
+	{
+		"title": "Class 05 A: Lecture - Vector: Surface & Brep",
+		"id": "6kUkNKk8astKXi7ZnUC73D",
+		"lan": "eng",
+		"description": "These sources offer an overview of a data-driven design class lecture focusing on Surface and Boundary Representation (Brep) data, building upon previous discussions of vectors and curves. Key concepts covered include the definition of a surface as a two-dimensional form, the extraction of various data types like point grids, iso-curves, normal vectors, and curvature, and different methods for representing surfaces such as parametric and implicit forms. The lecture explores operations like area calculation and point projection, the mathematical understanding of curvature and its types (Gaussian, Mean), and concepts like surface mapping and geodesic curves. Finally, it introduces Brep and Mesh as methods for representing complex shapes and emphasizes the importance of understanding their hierarchical data structures for effective design and programming.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 05 A: Lecture - 벡터: 서피스 & 비랩 / Vector: Surface & Brep",
+		"id": "3qgzlQSENXGYGet7PxpiKd",
+		"lan": "kor",
+		"description": "표면(Surface), Brep(Boundary Representation), 그리고 메시(Mesh)와 관련된 데이터 구조와 개념을 설명하는 강의 내용과 요약 문서입니다. 표면은 커브에서 확장된 2차원 형상으로 점 그리드, 아이소커브, 법선 벡터, 곡률 등의 데이터가 추출 가능하며, 파라메트릭 또는 암시적 방식으로 표현됩니다. 복잡한 형태 표현의 한계를 가진 NURBS 표면을 보완하기 위해 여러 표면을 조합하는 Brep와 버텍스와 페이스로 구성된 메시가 활용되며, 이들 데이터 구조의 계층적 이해는 디자인 소프트웨어 활용과 형상 제어에 필수적입니다. 면적 계산, 점 투영, 곡률 이해(가우스 곡률, 평균 곡률), 표면 매핑, 측지선 등 다양한 표면 관련 연산과 개념이 다루어집니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 04 B: Workshop - Vector: Line & Polyline, & Curve",
+		"id": "5eZmWI6FyxJkpBfeNFx1Zn",
+		"lan": "eng",
+		"description": "These source excerpts primarily consist of a lecture on computational design and geometry using Rhino and Grasshopper, delivered with some Korean interjections. The lecture focuses on vector, line, polyline, and curve manipulation, including concepts like creating and modifying geometry through code, understanding data structures for points and lines, and interpreting parametric representations of curves. Additional topics covered include geometric operations such as fitting curves, calculating distances, line intersections, and splitting/trimming curves, as well as more advanced concepts like Bézier curves, circle and sphere packing, rectangles, ellipses, and the use of tangent, normal, and binormal vectors to define frames and curve curvature. The speaker also briefly touches on the importance of understanding the RhinoScript Syntax and RhinoCommon APIs and encourages hands-on practice with coding and geometric concepts.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 04 B: Workshop - 벡터: 라인(폴리라인) & 커브 / Vector: Line & Polyline & Curve",
+		"id": "4CRIqCup1fQG5dZPBEFRWK",
+		"lan": "kor",
+		"description": "강의 발췌본은 Rhino 및 Grasshopper 환경에서 벡터, 선, 폴리라인, 곡선과 같은 기하학적 요소를 생성하고 조작하는 컴퓨테이셔널 디자인의 기초를 다룹니다. 강의는 벡터 연산의 중요성을 강조하며, 이를 통해 기본적인 기하학적 형태를 구성하고 변형하는 방법을 설명합니다. 또한 RhinoScriptSyntax 및 RhinoCommon API를 사용하여 Python 스크립트를 통해 이러한 작업을 수행하는 실용적인 방법과 함께, 곡선의 속성 및 미분 기하학의 기초 개념을 소개하여 더욱 복잡한 형태를 이해하고 제어하는 방법을 제시합니다. 궁극적으로 API에 의존하는 것을 넘어 기하학의 수학적, 알고리즘적 원리를 이해하고 실제 코딩 연습을 통해 컴퓨테이셔널 사고 능력을 키우는 것의 중요성을 강조합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 04 A: Lecture - Vector: Line & Polyline & Curve",
+		"id": "03tGuCsZX3BHniQUTZ2zad",
+		"lan": "eng",
+		"description": "This lecture segment provides an overview of a computation design course curriculum, focusing on the foundational concepts and their application. The speaker emphasizes the importance of understanding vector operations, explaining how they are fundamental to manipulating geometric data like curves and surfaces. The discussion then transitions to object-oriented programming as a method for structuring data and design concepts, highlighting its relevance in computational design for creating customized data structures. Key geometric concepts like the representation and properties of curves, including tangent, binormal, and principal normal vectors and curvature, are explained. Finally, the lecture outlines future topics, such as spatial data, AI, and visualization, and assigns research homework related to computational design projects.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 04 A: Lecture - 벡터: 라인(폴리라인) & 커브 / Vector: Line & Polyline & Curve",
+		"id": "4PMmjCZFG3H7dTM6f53T1d",
+		"lan": "kor",
+		"description": "본 자료들은 컴퓨테이셔널 디자인의 핵심 개념을 다루며, 특히 디자인 데이터의 기반이 되는 프로그래밍과 벡터의 중요성을 강조합니다. 벡터는 곡선, 표면, 메시와 같은 기하학적 요소의 조작에 필수적이며, 객체 지향 프로그래밍은 이러한 디자인 데이터를 구조화하고 관리하는 데 유용합니다. 또한, 곡선은 점들의 관계를 해석하는 객체로, 다양한 데이터(시작점, 끝점, 탄젠트, 곡률 등)를 포함하며 매개변수적 표현이 디자인 소프트웨어에서 주로 사용됩니다. 마지막으로, 다양한 유형의 곡선과 그 응용 분야, 그리고 컴퓨테이셔널 디자인 프로젝트를 분석하는 과제를 통해 실질적인 학습을 장려합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 03 B: Workshop - Vector & Point Data Structure",
+		"id": "2z63UEnJDLRIRkHEks6Aes",
+		"lan": "eng",
+		"description": "These excerpts capture a workshop focused on the fundamental concepts of vectors and points within the context of design computing. The instructor guides students through various programming environments and libraries (like Processing, HTML Canvas, RhinoCommon, C#, and Python) to demonstrate how these basic geometric entities are represented and manipulated computationally. Key operations such as addition, subtraction, scaling, distance calculation, and cross/dot products are explained, often illustrating their implementation through code examples and their visual interpretation. The discussion also touches upon coordinate systems, planes, and transformations (translation, rotation, scaling), emphasizing that these seemingly complex geometric operations are built upon the core understanding of vectors and points. The overall aim is to provide students with a foundational understanding of these building blocks for creating and manipulating geometric data in design applications.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 03 B: Workshop - 벡터 & 포인트 데이터 구조 / Vector & Point Data Structure",
+		"id": "1oXnu1Uxwkv1AXURD7CpwB",
+		"lan": "kor",
+		"description": "강의 영상에서 강사는 벡터와 포인트 데이터 구조에 대해 설명하며, 다양한 프로그래밍 환경(프로세싱, HTML 캔버스, 오픈GL, 맷플롯립 등) 및 Rhino/Grasshopper에서 이러한 개념을 구현하는 방법을 시연했습니다. 학생들은 GitHub 저장소에서 예제 코드를 활용하여 벡터 연산 및 시각화를 연습하고, 질문 답변 자료를 참고할 수 있습니다. 강사는 벡터 덧셈, 뺄셈, 스케일링, 내적, 외적 등의 기본적인 연산을 코드로 구현하는 과정을 보여주고, 포인트 그리드, 어트랙션, 로테이션 등 더 복잡한 예제를 통해 응용 방법을 제시했습니다. 또한, 매트릭스, 플레인, 좌표 시스템과 같은 고급 개념을 소개하며, 디자인 데이터를 다루는 데 있어 이러한 지오메트리 개념의 중요성을 강조했습니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 03 A: Lecture - Vector & Point Data Structure",
+		"id": "4fbrRbY7xTAreu9tyLAjng",
+		"lan": "eng",
+		"description": "This course introduces the fundamental concepts of vector and point data structures in a computational design context. It explains how real-world information can be translated into vector data, which represents magnitude and direction, and raster data, which is like a digital image. The importance of coordinate systems in interpreting these numerical data points is stressed, and different measurement systems like Euclidean and Manhattan distances are discussed. The lecture further explores basic vector operations such as scaling, addition, subtraction, and dot and cross products, highlighting how these operations are crucial for understanding the relationships between vectors and solving geometric problems like calculating angles, finding midpoints, and performing projections. Finally, the concept of transformations using matrices to manipulate geometric data is briefly touched upon, emphasizing how these core principles underpin much of computational design.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 03 A: Lecture - 벡터 & 포인트 데이터 구조 / Vector & Point Data Structure",
+		"id": "5fU2H2MleYuSJtoQlsQnVH",
+		"lan": "kor",
+		"description": "강의 자료는 디자인에서 벡터 데이터와 포인트 데이터라는 두 가지 기본 데이터 유형과 이들이 계산 디자인에서 어떻게 사용되는지 설명합니다. 핵심 아이디어는 같은 숫자가 좌표계의 맥락에 따라 점(위치) 또는 벡터(방향 및 크기)로 해석될 수 있다는 것입니다. 또한 거리 측정을 위한 다양한 방법과 길이, 스케일링, 덧셈, 뺄셈, 내적, 외적과 같은 필수적인 벡터 연산에 대해서도 다룹니다. 궁극적으로 이러한 개념들은 포인트 그리드의 개념과 변환 및 평면의 사용과 연결되며, 대부분의 기하학적 문제를 해결하기 위해 벡터 개념을 이해하는 것이 중요함을 강조합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 02 B: Workshop - Programming & Data Processing for Designers",
+		"id": "368CmvY9Hh2QpRkkKbHLyh",
+		"lan": "eng",
+		"description": "This workshop lecture provides an introduction to programming and data processing, specifically within the Grasshopper environment. The instructor guides attendees through basic Python syntax and data structures like lists, strings, loops, and conditional statements, emphasizing the importance of understanding the underlying logic behind visual components. Key concepts demonstrated include manipulating numerical data, working with lists, using functions for tasks like mapping data between different domains, and generating random numbers. The lecture encourages hands-on practice by recreating visual component functionalities through coding, ultimately aiming for students to develop the ability to translate their design ideas into code and handle various data types and structures within the Grasshopper workflow.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 02 B: Workshop - 디자이너를 위한 프로그래밍 & 데이터 구조 / Programming & Data Processing",
+		"id": "2Uvin9znU9Kn21TDGAR9DM",
+		"lan": "kor",
+		"description": "데이터 인 디자인 수업의 프로그래밍 및 데이터 처리 워크숍 내용을 담고 있습니다. 강사는 학생들이 디자인 배경을 가지고 있음을 고려하여 파이썬의 기본 개념과 Grasshopper 및 Rhino와의 통합을 중심으로 설명합니다. 주요 내용은 개발 환경 설정(웹사이트, GitHub, Jupyter Notebook, VS Code, Grasshopper, RhinoScriptSyntax) 소개, 파이썬의 변수, 자료형, 연산자, 조건문, 반복문과 같은 기초 문법 학습, 그리고 데이터 구조(리스트) 및 Rhino 지오메트리 객체 처리를 포함합니다. 강사는 실습의 중요성을 반복적으로 강조하며, Grasshopper 컴포넌트의 기능을 파이썬 코드로 구현해보는 연습을 권장하고 기본적인 RhinoScriptSyntax 활용 능력을 최소 목표로 제시합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 02 A: Lecture - Programming & Data Processing for Designers",
+		"id": "0yhAPXWijwr6GIIwKDLI90",
+		"lan": "eng",
+		"description": "These sources present a compelling argument for the integration of data and computation into the field of design. They emphasize that future success in design hinges not on predicting fleeting trends, but on mastering enduring principles, problem-solving skills, and computational thinking. The lecture posits that understanding how to translate design concepts into quantifiable data structures—like vectors, rasters, and graphs—and then processing this data through code and algorithms is essential for creating powerful, iterative, and optimized design solutions. Ultimately, the material stresses the importance of hands-on coding practice, focusing on fundamental concepts like APIs, to enable designers to leverage the growing power of digital infrastructure.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 02 A: Lecture - 디자이너를 위한 프로그래밍 & 데이터 구조 / Programming & Data Processing",
+		"id": "226157Ln7l7XLPtsJhaqdT",
+		"lan": "kor",
+		"description": "강의 발췌본과 브리핑 문서는 데이터와 코드가 디자인 분야에 미치는 영향에 대해 설명합니다. 미래의 디자인 트렌드를 예측하기보다는 변하지 않을 원리와 문제 해결에 필요한 컴퓨팅 사고의 중요성을 강조하며, 데이터를 디자인 개체로 이해하고 벡터, 래스터, 그래프 등 다양한 데이터 구조를 활용하여 디자인 문제를 해결하는 방법을 다룹니다. 또한, 디자인 프로세스를 코드로 변환하고 반복과 최적화를 통해 효율적인 디자인을 구현하며, API 이해와 꾸준한 코딩 연습이 디자이너에게 필수적인 역량임을 역설합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+
+	{
+		"title": "Class 01 B: Lecture - Data & Design - Code for Design",
+		"id": "2FODXBbRsd6oEW0qel7ENW",
+		"lan": "eng",
+		"description": "These sources introduce students to the foundational concepts of programming and data processing within the realm of computational design. The lecture emphasizes that programming is fundamentally data processing, requiring an understanding of data types and data structures to represent and manipulate information effectively. A key takeaway is the importance of applying computational thinking—breaking down problems and creating explicit instructions—to design challenges, distinguishing this from traditional implicit processes. The instructor also touches on essential skills like debugging and utilizing APIs to interact with design software, highlighting how embracing technology and its underlying principles is crucial for designers.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 01 B: Lecture - 데이터 & 디자인 / Data & Design, Code for Design",
+		"id": "75u5aWLuN7vaC8qsYwsjIo",
+		"lan": "kor",
+		"description": "데이터 디자인 수업의 두 번째 강의 이며, 데이터와 컴퓨테이션이 디자인 분야에 통합되는 중요성을 강조합니다. 미래의 성공은 빠르게 변화하는 트렌드 예측보다 변하지 않는 원리, 문제 해결 능력, 컴퓨테이셔널 사고에 대한 깊이 있는 이해에 달려 있다고 주장합니다. 강의는 디자인 개념을 벡터, 래스터, 그래프와 같은 데이터 구조로 변환하고, 이를 코드와 알고리즘을 통해 처리하는 능력이 강력하고 반복적이며 최적화된 디자인 솔루션을 만드는 데 필수적이라고 설명합니다. 궁극적으로 자료는 디자이너들이 디지털 인프라의 발전된 능력을 활용할 수 있도록 API와 같은 기초 개념에 집중하며 직접 코딩을 연습하는 것이 중요함을 역설합니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 01 A: Lecture - Data & Design - Code for Design",
+		"id": "2jhS9EefkvNVQWSJkD5XLp",
+		"lan": "eng",
+		"description": "These sources discuss the evolving role of data and computational thinking in design, highlighting how data is becoming a fundamental `material` akin to traditional building materials. The speaker, an expert in both architectural design and software engineering, emphasizes the necessity for designers to understand how to digitize reality and codify design processes, utilizing concepts like data structures (vector, raster, graph) and algorithms. The texts also explore the difference between traditional deductive problem-solving and inductive approaches like machine learning, stressing the importance of choosing the right method and focusing on unchanging foundational principles in a rapidly advancing technological landscape.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Class 01 A: Lecture - 데이터 & 디자인 / Data & Design, Code for Design",
+		"id": "2NRwcHN7xOM1pDFgDdEUeC",
+		"lan": "kor",
+		"description": "본 발표 자료는 건축 설계, 소프트웨어 엔지니어링, 컴퓨테이션 디자인 분야의 전문가가 디자인의 미래에서 데이터의 역할을 탐구하는 내용을 담고 있습니다. 연사는 데이터를 새로운 디자인 재료로 제시하며, 현실 정보를 디지털화하고 디자인 과정을 코드화하는 것의 중요성을 강조합니다. 또한, 문제 해결을 위한 컴퓨테이셔널 사고와 데이터 구조, 알고리즘에 대한 이해의 필요성을 역설합니다. 빠르게 변화하는 기술 속에서도 변하지 않는 기초 개념에 집중하는 것이 중요하며, 다양한 사례 연구를 통해 데이터와 컴퓨테이셔널 접근 방식이 디자인 분야에 적용될 수 있음을 보여줍니다.",
+		"video": "",
+		"url": "https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation"
+	},
+	{
+		"title": "Design Material:Data Utilization in Computation, buildSMART Conference 2024",
+		"id": "6kAqq7Z8XjHIc3UqhkH4nU",
+		"lan": "eng",
+		"description": "These sources discuss the evolving role of data and computational thinking in design, highlighting how data is becoming a fundamental `material` akin to traditional building materials. The speaker, an expert in both architectural design and software engineering, emphasizes the necessity for designers to understand how to digitize reality and codify design processes, utilizing concepts like data structures (vector, raster, graph) and algorithms. The texts also explore the difference between traditional deductive problem-solving and inductive approaches like machine learning, stressing the importance of choosing the right method and focusing on unchanging foundational principles in a rapidly advancing technological landscape.",
+		"video": "K0Y20rPuoJs"
+	},
+	{
+		"title": "Design Material:Data Utilization in Computation, buildSMART Conference 2024",
+		"id": "7lhTeAnM35fi4wpOwnnXzR",
+		"lan": "kor",
+		"description": "본 발표 자료는 건축 설계, 소프트웨어 엔지니어링, 컴퓨테이션 디자인 분야의 전문가가 디자인의 미래에서 데이터의 역할을 탐구하는 내용을 담고 있습니다. 연사는 데이터를 새로운 디자인 재료로 제시하며, 현실 정보를 디지털화하고 디자인 과정을 코드화하는 것의 중요성을 강조합니다. 또한, 문제 해결을 위한 컴퓨테이셔널 사고와 데이터 구조, 알고리즘에 대한 이해의 필요성을 역설합니다. 빠르게 변화하는 기술 속에서도 변하지 않는 기초 개념에 집중하는 것이 중요하며, 다양한 사례 연구를 통해 데이터와 컴퓨테이셔널 접근 방식이 디자인 분야에 적용될 수 있음을 보여줍니다.",
+		"video": "K0Y20rPuoJs"
+	}
 ]
