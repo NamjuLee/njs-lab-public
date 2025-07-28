@@ -109,7 +109,8 @@ Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advance
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vR_L5Ns3lGLkQqpt35DJUBkUnkayQHL2vk19Eew3yXrp9FF54_3VExDNwV24wveC1Unb6_EITxCXLdz/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -117,32 +118,29 @@ Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advance
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 01. Data & Design: Code for Design Lecture A</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/fQiKMvzxayA" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2NRwcHN7xOM1pDFgDdEUeC?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2jhS9EefkvNVQWSJkD5XLp?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 01. Data & Design: Code for Design Lecture B</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/-T8HrVHajuU" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/75u5aWLuN7vaC8qsYwsjIo?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2FODXBbRsd6oEW0qel7ENW?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 01. Data & Design: Code for Design Lecture A</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/fQiKMvzxayA" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/2NRwcHN7xOM1pDFgDdEUeC" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/2jhS9EefkvNVQWSJkD5XLp" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 01. Data & Design: Code for Design Lecture A</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-T8HrVHajuU" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/75u5aWLuN7vaC8qsYwsjIo" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/2FODXBbRsd6oEW0qel7ENW" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -234,7 +232,8 @@ Overview: Introduction to Computation for Design I & II
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vSGx0-wCa1lWaYBS_lxqoWKZBkxAs_m07Wb10LFROXM384rvb8dCbso0-6MRx5pGwpcLm-cEQIt7pKj/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -242,32 +241,29 @@ Overview: Introduction to Computation for Design I & II
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 02 Lecture: Programming & Data Processing</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/OHMkx-mqmsA" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/226157Ln7l7XLPtsJhaqdT?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0yhAPXWijwr6GIIwKDLI90?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 02 Workshop: Programming & Data Processing</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/rcDO5SMnccQ" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2Uvin9znU9Kn21TDGAR9DM?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/368CmvY9Hh2QpRkkKbHLyh?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 02 Lecture: Programming & Data Processing</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/OHMkx-mqmsA" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/226157Ln7l7XLPtsJhaqdT" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/0yhAPXWijwr6GIIwKDLI90" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 02 Workshop: Programming & Data Processing</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rcDO5SMnccQ" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/2Uvin9znU9Kn21TDGAR9DM" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/368CmvY9Hh2QpRkkKbHLyh" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -388,7 +384,8 @@ Lecture:
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vScKfJyKbrXeENr6mVrK9-OYU_725LwXpksp0HYD96cxBW9DNenMCMGvnI92ox8YjxXVG7rpUZusdOg/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -396,32 +393,29 @@ Lecture:
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 03 Lecture: Vector & Point Data structure</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/ylfYqvYvBLM" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5fU2H2MleYuSJtoQlsQnVH?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4fbrRbY7xTAreu9tyLAjng?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 03 Workshop: Vector & Point Data structure</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/9HEJ0oDTvUM" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1oXnu1Uxwkv1AXURD7CpwB?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2z63UEnJDLRIRkHEks6Aes?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 03 Lecture: Vector & Point Data structure</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ylfYqvYvBLM" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/5fU2H2MleYuSJtoQlsQnVH" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/4fbrRbY7xTAreu9tyLAjng" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 03 Workshop: Vector & Point Data structure</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/9HEJ0oDTvUM" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/1oXnu1Uxwkv1AXURD7CpwB" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/2z63UEnJDLRIRkHEks6Aes" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -526,8 +520,10 @@ Vector: https://computationaldesign.tistory.com/39
 
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
+    loading="lazy"
     src="https://docs.google.com/presentation/d/e/2PACX-1vQHKlqvMJE9IoiAdt4bdcM88O1r5KhA0JvtiuBuw2RHeTtLJYarS-ZC0ED2YPG0oRftm__74Si1MGJC/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -535,32 +531,29 @@ Vector: https://computationaldesign.tistory.com/39
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 04 Lecture Vector: Line & Polyline & Curve</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/h7_FuRKAcfM" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4PMmjCZFG3H7dTM6f53T1d?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/03tGuCsZX3BHniQUTZ2zad?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 04 Workshop Vector: Line & Polyline & Curve</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/KeAeMmP08nk" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4CRIqCup1fQG5dZPBEFRWK?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5eZmWI6FyxJkpBfeNFx1Zn?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 04 Lecture Vector: Line & Polyline & Curve</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/h7_FuRKAcfM" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/5fU2H2MleYuSJtoQlsQnVH" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/4fbrRbY7xTAreu9tyLAjng" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 04 Workshop Vector: Line & Polyline & Curve</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/KeAeMmP08nk" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/4CRIqCup1fQG5dZPBEFRWK" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/5eZmWI6FyxJkpBfeNFx1Zn" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -704,7 +697,8 @@ LAB 03 - Mesh,
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vR8emG4wsg2_arR2rsu7eJdDyTio2YuO3U5KJUOcFW2RDNroiTtZZJfhVkzAYjdZTGopO8ulBNdV4Bo/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -712,32 +706,29 @@ LAB 03 - Mesh,
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 05 Lecture Vector: Surface & Brep</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/TRo5cQvuGyo" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/3qgzlQSENXGYGet7PxpiKd?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/6kUkNKk8astKXi7ZnUC73D?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 05 Workshop Vector: Surface & Brep</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/ufHB_Xr2bQs" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5fF3ORcGG0iVspneiZCWVU?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5yNqxWXTgH1nqYrxY6Mc5l?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 05 Lecture Vector: Surface & Brep</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/TRo5cQvuGyo" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/3qgzlQSENXGYGet7PxpiKd" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/6kUkNKk8astKXi7ZnUC73D" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 05 Workshop Vector: Surface & Brep</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ufHB_Xr2bQs" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/5fF3ORcGG0iVspneiZCWVU" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/5yNqxWXTgH1nqYrxY6Mc5l" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -769,7 +760,8 @@ LAB 03 - Mesh,
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTDVooQQ6WwZmzRuGnPb8kPg4GEC0LkwSSGJIiYBPIHgFrcBpcEuSJf1uN01XHbjXbFY_upwh5IA6gJ/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -777,32 +769,29 @@ LAB 03 - Mesh,
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 06 Lecture: OOP and Data Structure</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/rKBCoznsuzM" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1uKbdVyzMb3xG5GipZco48?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2eExp7MSW9Mdu1PJpSoZwi?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 06 Workshop: OOP and Data Structure</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/Im85KU6IvLw" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2Jq5UhmUsOLUhMIKaBOjX3?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7uuydPuQiCX04yg4EdtNlH?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 06 Lecture: OOP and Data Structure</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/rKBCoznsuzM" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/1uKbdVyzMb3xG5GipZco48" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/2eExp7MSW9Mdu1PJpSoZwi" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 06 Workshop: OOP and Data Structure</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Im85KU6IvLw" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/2Jq5UhmUsOLUhMIKaBOjX3" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/7uuydPuQiCX04yg4EdtNlH" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -852,7 +841,8 @@ Geometry class - https://computationaldesign.tistory.com/23
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTlOrBCV4IVxU0Tf6H3lYZ_4NIT01tnHTsFYccYOwcLBYMjo8tjdfRhg6Dq8624_rsJDg2QkasD6til/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -860,32 +850,29 @@ Geometry class - https://computationaldesign.tistory.com/23
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 07 Lecture: Mesh</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/D3bxn-4iJKI" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1ChiZlrYdiMGLFvNN4kd2g?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/3MGLkx6P0Wtuwqz59vt6hK?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 07 Workshop: Mesh</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/M8xnWjRyM2I" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5rKfIS9rbZySifmnzMZlig?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1rf8etvwzMjK59tC9B9fSG?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 07 Lecture: Mesh</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/D3bxn-4iJKI" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/1ChiZlrYdiMGLFvNN4kd2g" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/3MGLkx6P0Wtuwqz59vt6hK" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 07 Workshop: Mesh</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/M8xnWjRyM2I" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/5rKfIS9rbZySifmnzMZlig" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/1rf8etvwzMjK59tC9B9fSG" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -940,7 +927,8 @@ Geometry class - https://computationaldesign.tistory.com/23
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vRMc4nk7cwgr2YukB32szxr9jmJ2WILlc2mX0f2tAncLSKfkKvFl5qwwzVK7DJiHGkGdEl3M_p8a8ic/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -948,32 +936,29 @@ Geometry class - https://computationaldesign.tistory.com/23
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 08 Lecture: Graph</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/PE8vWo_djYA" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/6wGbMBKP7kPL5r4HK7TYnn?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7s52vFatRQmXA9PvusIAGx?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 08 Workshop: Graph</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/Bbcy4SYEJV4" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4tlBDZTFsGg55ZnZCzVZVb?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/6WZJvsHl0OPghwlIsoQgjG?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 08 Lecture: Graph</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/PE8vWo_djYA" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/6wGbMBKP7kPL5r4HK7TYnn" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/7s52vFatRQmXA9PvusIAGx" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 08 Workshop: Graph</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Bbcy4SYEJV4" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/4tlBDZTFsGg55ZnZCzVZVb" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/6WZJvsHl0OPghwlIsoQgjG" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1106,7 +1091,8 @@ Python Class & Graph
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTJ5CW7E5Nl68aRcGWjLvDPfbsHCy8CPxzhnLK_sl8YHDskjLleMyPEY1f8ZEHHWqu2VHvdiPxIcG6W/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1114,32 +1100,29 @@ Python Class & Graph
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 09 Lecture: Pixel & Voxel</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/-2L-BiWCCJE" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1i2tSldERLgoKn0cS2TaZw?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/35Iny3nr9U5imi8ZDGqalF?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 09 Workshop: Pixel & Voxel</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/t9bH-iYMozE" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/39YCsfRfoR2I6HkvjU5aJP?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1cvZYZXFOIDsAvHyn63gTE?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 09 Lecture: Pixel & Voxel</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/-2L-BiWCCJE" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/1i2tSldERLgoKn0cS2TaZw" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/35Iny3nr9U5imi8ZDGqalF" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 09 Workshop: Pixel & Voxel</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/t9bH-iYMozE" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/39YCsfRfoR2I6HkvjU5aJP" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/1cvZYZXFOIDsAvHyn63gTE" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1212,7 +1195,8 @@ Voxel
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vQ7e0ZUraEf0fdpDf-dqfAckuCtfRQ0igfZ8dkeLEVf0M9tJyNIB6_5n-_dzmh5z-8DXYQb6bIIv9mN/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1220,62 +1204,56 @@ Voxel
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 10 Lecture A: AI for Designers</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/6GpMrUAT9Ps" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/6GFaRGtsWh4kqPCDDdzJ1P?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2hDhZZ7pIYc31GdIIEfEtW?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 10 Lecture A: AI for Designers</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/6GpMrUAT9Ps" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/6GFaRGtsWh4kqPCDDdzJ1P" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/2hDhZZ7pIYc31GdIIEfEtW" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 10 Lecture B: AI for Designers</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/pG6fpeR_lAU" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/7r4iVOWHGmXUfbB3KRs5yi" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/11eN7MQvJiLiXTgO0bzsvz" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 10 Lecture B: AI for Designers</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/pG6fpeR_lAU" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7r4iVOWHGmXUfbB3KRs5yi?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/11eN7MQvJiLiXTgO0bzsvz?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 10 Lecture C: AI for Designers</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/oLDxLnV_d2k" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0dDiWgU6keU7A4EBVrVRLF?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/69BzzAAfliFcHYFj7s3h8q?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 10 Lecture D: AI for Designers</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/dix9VAcx_SM" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2zyaTzHdgWUWoNGwuFMjKi?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0vrcMQnvgdPaO8x54ZB3hp?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 10 Lecture C: AI for Designers</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/oLDxLnV_d2k" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/0dDiWgU6keU7A4EBVrVRLF" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/69BzzAAfliFcHYFj7s3h8q" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 10 Lecture D: AI for Designers</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/dix9VAcx_SM" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/2zyaTzHdgWUWoNGwuFMjKi" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/0vrcMQnvgdPaO8x54ZB3hp" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1401,7 +1379,8 @@ Analytical model: Machine Learning
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTzf6MqLm3lykJrReWDYHVMYHgQ1_tLSgThD7eXBIscaY8PHP9OmXIA6De2PslSWV93ukOWSAs1PvWS/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1409,32 +1388,29 @@ Analytical model: Machine Learning
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 11 Lecture A: AI-aided Design</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/epBVcrHUVdY" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/16rZan91H1AyFYs48xqdVw?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0pM89fIgYM6Jul5f06Iqaq?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 11 Lecture B: AI-aided Design</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/ktUSkG6OqYc" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0NEydsWneBAWGvQ3hjPq5v?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5bM8uBCSn97ZBxNNWinktK?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 11 Lecture A: AI-aided Design</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/epBVcrHUVdY" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/16rZan91H1AyFYs48xqdVw" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/0pM89fIgYM6Jul5f06Iqaq" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 11 Lecture B: AI-aided Design</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ktUSkG6OqYc" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/0NEydsWneBAWGvQ3hjPq5v" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/5bM8uBCSn97ZBxNNWinktK" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1522,7 +1498,8 @@ Deep Learning
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTppgZBRS4Dy6gjqD84fslL8qNRe12gx2Pk8c1eNMtRVzzqIPFFQdVi33TZzl4CEH2kEuQnRTZUE8Zk/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1530,32 +1507,29 @@ Deep Learning
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 12 Lecture A: Design Algorithm & Optimization</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/ymCBVCrGbL4" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4lfr2k0HwboXwfZiC7Z5X8?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5ojJPRnPab66y2u4t6jFwt?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
----
-
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 12 Lecture B: Design Algorithm & Optimization</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/MFRKxPpoGcE" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4BKv8hIfUbflrOoBwOz1J1?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4TyC1OdK7ZrLZrnccC4Ub1?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 12 Lecture A: Design Algorithm & Optimization</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ymCBVCrGbL4" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/4lfr2k0HwboXwfZiC7Z5X8" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/5ojJPRnPab66y2u4t6jFwt" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 12 Lecture B: Design Algorithm & Optimization</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/MFRKxPpoGcE" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/4BKv8hIfUbflrOoBwOz1J1" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/4TyC1OdK7ZrLZrnccC4Ub1" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1616,7 +1590,8 @@ Deep Learning
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vRXcQRO3IIfaEZCp2QcshDw4fYriRXDooneU8_vO5FRullaOMOoEll-zefHciRIo_9QtVFoMaOqOuW7/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1624,17 +1599,18 @@ Deep Learning
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 13 Lecture: Dynamics & Agent Systems</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/ZooMfBzDC4M" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4kie7qX4M04NQm0aKWWxk0?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7i8IeRCKKRIW1qQ82O6QuD?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="width: 50%; min-width: 300px;">
+    <p><strong>Class 13 Lecture: Dynamics & Agent Systems</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ZooMfBzDC4M" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/4kie7qX4M04NQm0aKWWxk0" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/7i8IeRCKKRIW1qQ82O6QuD" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1695,7 +1671,8 @@ Dynamics
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vQ5GgV7teorDOD8uf5nxuJ02HQMQKVIC04juYJQB8-AMOOukLM6HOPbU5tgmQbj7JRQ-SWAu9O7BiL_/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1703,17 +1680,18 @@ Dynamics
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 14 Lecture: Data Visualization</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/Pc6BqrijJTo" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7zTzUDmRdJsgtnKJsNVl4Q?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7KJrZaLbp0WFBUS6jy0mVy?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="width: 50%; min-width: 300px;">
+    <p><strong>Class 14 Lecture: Data Visualization</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/Pc6BqrijJTo" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/7zTzUDmRdJsgtnKJsNVl4Q" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/7KJrZaLbp0WFBUS6jy0mVy" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1781,7 +1759,8 @@ LAB 03 - Visualization analysis methods and tools
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vR_AFMyqjDvYOfQ-BfQUbwA3zQbrp99RiVl2-llUa3evLiiVvjQVDAo97SnZGUwlcXiGrqDRRGb32XP/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1813,7 +1792,8 @@ LAB 03 - Visualization analysis methods and tools
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vRYnglgaikF-Ksxaj2KQoRPEF8OUoZTzFMfhJHUaKQm8phzDMdcDwFZoCCexmcHNtJ9JPLypFH7f98W/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1821,17 +1801,18 @@ LAB 03 - Visualization analysis methods and tools
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 16 Lecture: Design Visualization</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/EdLcyPDtIUk" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/4RCRwxWccPMare2F4ctY2c?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/1bH6W3a2FTnZTXfDxWNmIk?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="width: 50%; min-width: 300px;">
+    <p><strong>Class 16 Lecture: Design Visualization</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/EdLcyPDtIUk" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/4RCRwxWccPMare2F4ctY2c" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/1bH6W3a2FTnZTXfDxWNmIk" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1882,7 +1863,8 @@ LAB 03 - Visualization analysis methods and tools
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vTCAGwIW6cZf3S6kOmrmk7xxah6-3o0OU5MICzrQ7nLji1aG--YNL5b9i5VhBH3tBmEZyRTwu2vYvim/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1890,17 +1872,18 @@ LAB 03 - Visualization analysis methods and tools
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 15 Lecture: Digital Mapping & GIS for Visualization</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/f-K1HRF4GeU" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0w0nrhXDf2abRmbCNiDdoq?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/3jc58aDNc6G5vY3ECM5V5U?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="width: 50%; min-width: 300px;">
+    <p><strong>Class 15 Lecture: Digital Mapping & GIS for Visualization</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/f-K1HRF4GeU" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/0w0nrhXDf2abRmbCNiDdoq" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/3jc58aDNc6G5vY3ECM5V5U" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -1961,7 +1944,8 @@ This course provides an introduction to the field of physical computing, where s
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vR8a6OhBqcxbltIADs9WpfPj0MvTVObGSurn8FBE0Caxv5oAYWuhwQcaN9VpxKn9yNgDoh7gQukfJuQ/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -1969,32 +1953,31 @@ This course provides an introduction to the field of physical computing, where s
 
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 17 Lecture: CAD software development</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/aRxhJfouLo8" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/5Y38lYnLjp48do20dMDEJQ?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/0wA50kgapllqNbBSQ3foKE?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-</div>
-
 ---
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 17 Lecture: CAD software development</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/gqLxifYJzaI" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/2wPZ4joNbKlib8bfipcUiW?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/16x8uefYTT8Ho00LRGPQ4P?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+<div style="width: 100%; display: flex; flex-wrap: wrap; gap: 2%;">
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 17 Lecture: CAD software development</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/aRxhJfouLo8" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/5Y38lYnLjp48do20dMDEJQ" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/0wA50kgapllqNbBSQ3foKE" target="_blank">English</a>
+    </div>
+  </div>
+  <div style="flex: 1 1 30%;">
+    <p><strong>Class 12 Lecture B: Design Algorithm & Optimization</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/gqLxifYJzaI" title="Lecture B" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/2wPZ4joNbKlib8bfipcUiW" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/16x8uefYTT8Ho00LRGPQ4P" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
@@ -2071,7 +2054,8 @@ CAD System & development
 <div style="position: relative; width: 100%; padding-top: 61%; background-color: #ffffff;">
   <iframe
     src="https://docs.google.com/presentation/d/e/2PACX-1vQtbsps_QvLdBrYSAirVulgqSb1AFcwVTfGB-J6d-pdeKs8mQo413vJ8EnZ-RYcCXwogssAyf6j08Ip/pubembed?start=false&loop=false&delayms=3000"
-    frameborder="0"
+    loading="lazy" 
+	frameborder="0"
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: white;"
     allowfullscreen>
   </iframe>
@@ -2100,17 +2084,20 @@ CAD System & development
 -   Design Algorithm  
     ...
 
-<div style="width: 100%; height: 220px; display: flex">
-	<div style="padding-right: 1%; width: 50%;">
-		<p>Class 17 Lecture: CAD software development</p>
-		<iframe style="width: 100%; height: 85%;" src="https://www.youtube.com/embed/lifwtEbkYwQ" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-	<div style="width: 50%; height: 100%;">
-		<p>Korean version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/6ZYu4uxDvBDcW9Uw7dicUH?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-		<p>English version</p>
-		<iframe style="width: 100%; height: 80px;" src="https://open.spotify.com/embed/episode/7dEPjGx0IGzZ1uJTpyTWBz?utm_source=generator" title="Membership Video" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
+---
+
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  <div style="width: 50%; min-width: 300px;">
+    <p><strong>Class 18 A Summary: Data in Design course</strong></p>
+    <div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+      <iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/lifwtEbkYwQ" title="Lecture A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    <div style="margin-top: 0.5em; display: flex; flex-wrap: wrap; gap: 0.5em; align-items: center;">
+      <p>Podcast Summary:</p>
+      <a href="https://open.spotify.com/episode/6ZYu4uxDvBDcW9Uw7dicUH" target="_blank">Korean</a>
+      <a href="https://open.spotify.com/episode/7dEPjGx0IGzZ1uJTpyTWBz" target="_blank">English</a>
+    </div>
+  </div>
 </div>
 
 ---
