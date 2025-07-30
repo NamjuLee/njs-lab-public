@@ -11,6 +11,7 @@ link: [https://www.youtube.com/c/CodeforDesign](https://www.youtube.com/c/Codefo
 
 ## Key Lecture index
 
+-   Data in Design Index - https://computationaldesign.tistory.com/74
 -   Computational design lecture Playlist: https://www.youtube.com/playlist?list=PLweNVwGgDKEbj6hsMC902Iq57XgkwLaHY
 
 Podcast:
@@ -618,13 +619,13 @@ link: https://computationaldesign.tistory.com/9
     2/9 BIM을 하고 싶은 학생에게 - link  
     3/9 BIM을 하고 싶은 실무자에게 - link  
     4/9 앞으로의 계획, 그리고 내가 그리는 미래 - link  
-    5/9 유학에 대한 생각과 개인적인 경험 , 그리고 벨류 엔지니어링 - link  
+    5/9 유학에 대한 생각과 개인적인 경험 , 그리고 벨류 엔지니어링 - link
 
 -   6/9 한국에서, BIM의 문제점 그리고 건축산업? - link  
     7/9 내가 생각하는 컴퓨테이셔널 디자인과 코딩, 그리고 툴 개발 - link  
     8/9 개인적인 질문들: 이메일 관리, 관심 있는 앱, 그리고 - link  
     SmallTalk 02, 신희찬, 우리의 피드백 그리고 잡담  
-    SmallTalk 02, 신희찬, 구독자 피드백  
+    SmallTalk 02, 신희찬, 구독자 피드백
 
 -   크리스마스 휴가를 맞이하여, 심희찬 님의 사무실, Arup을 방문했습니다!  
     신희찬, 빔(BIM)과 컴퓨테이셔널 디자인(Computational Design) 질문 답변 그리고 수다  
