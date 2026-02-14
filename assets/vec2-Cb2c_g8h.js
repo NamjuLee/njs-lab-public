@@ -1,0 +1,2 @@
+import{A as o}from"./mat4-DRgVL_5a.js";function c(){var r=new o(2);return o!=Float32Array&&(r[0]=0,r[1]=0),r}function m(r,n){var t=new o(2);return t[0]=r,t[1]=n,t}(function(){var r=c();return function(n,t,e,f,l,a){var u,i;for(t||(t=2),e||(e=0),f?i=Math.min(f*t+e,n.length):i=n.length,u=e;u<i;u+=t)r[0]=n[u],r[1]=n[u+1],l(r,r,a),n[u]=r[0],n[u+1]=r[1];return n}})();export{m as f};
+//# sourceMappingURL=vec2-Cb2c_g8h.js.map

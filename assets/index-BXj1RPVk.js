@@ -1,0 +1,2 @@
+import{c as s,f as p,a as i,b as m,d as R,e as U,m as n}from"./mat4-DRgVL_5a.js";const h=async t=>fetch(`${t}`).then(a=>a.text()).catch(a=>{console.debug(a)}),l=(t,a=[0,0,0],e=[0,0,0],r=[1,1,1])=>{const o=s(),c=s(),f=s(),u=s(),g=s();p(u,a),i(o,e[0]),m(c,e[1]),R(f,e[2]),U(g,r),n(t,o,g),n(t,c,t),n(t,f,t),n(t,u,t)},y=(t,a,e=GPUBufferUsage.VERTEX|GPUBufferUsage.COPY_DST)=>{const r=t.createBuffer({size:a.byteLength,usage:e,mappedAtCreation:!0});return new Float32Array(r.getMappedRange()).set(a),r.unmap(),r};export{l as a,y as c,h as l};
+//# sourceMappingURL=index-BXj1RPVk.js.map

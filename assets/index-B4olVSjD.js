@@ -1,0 +1,2 @@
+import{A as r,E as t}from"./index-Cl9ViOD6.js";import"./index-DXWTkgC4.js";import"./three.module-Hhv3uJu8.js";import"./VRButton-B5KFR7YQ.js";import"./FBXLoader-WlzV2EoI.js";import"./OrbitControls-BYJv8m_r.js";class m{constructor(e){this.init(e)}async init(e){this.appHypercube3d=await r.init({environmentType:t.Configurator,divID:e,webGPU:!1,performanceMode:!1,ui:!0,debuggerMode:!0})}destroy(){this.appHypercube3d.destroy()}}export{m as Solution};
+//# sourceMappingURL=index-B4olVSjD.js.map

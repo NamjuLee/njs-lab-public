@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[72942],{72942:(e,t,n)=>{n.r(t),n.d(t,{Solution:()=>a});var s=n(56468),c=n(55913);class a extends c.TF{constructor(){super(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"main"),this.pointLight=void 0;new s.xsS,new s.cPb(50,1,0,500),document.createElement("div"),document.createElement("div")}update(e){}}}}]);
-//# sourceMappingURL=72942.fb02ad02.chunk.js.map

@@ -1,0 +1,2 @@
+class o{constructor(e){this.hostDiv=document.getElementById(e);const i="https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/",t=document.createElement("iframe");t.src=i,t.width="100%",t.height="100%",t.style.border="none",t.style.background="#fff",t.style.border="none",this.hostDiv.appendChild(t)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}export{o as Solution};
+//# sourceMappingURL=index-DdPb_jS4.js.map

@@ -1,0 +1,2 @@
+import{i as o}from"./multiOriginJSONSupportUtils-Bs2JKBBs.js";function p(r){r&&r.writtenProperties&&r.writtenProperties.forEach((({target:i,propName:e,newOrigin:t})=>{o(i)&&t&&i.originOf(e)!==t&&i.updateOrigin(e,t)}))}export{p as i};
+//# sourceMappingURL=originUtils-CaJShact.js.map

@@ -1,0 +1,2 @@
+class s{constructor(e){this._level=-1,this._stop=!1,this.numRender=0,this.numStopFrame=e}get stop(){return this._stop}set stop(e){this.numRender=0,this._stop=e}TimerForStop(){this.numRender++,this.numRender>this.numStopFrame&&(this.numRender=0,this.stop=!0)}Reset(){this._level=-1}get level(){return this._level}set level(e){this._level=e}}export{s as C};
+//# sourceMappingURL=CanvasLoopController-a1y2aHzZ.js.map

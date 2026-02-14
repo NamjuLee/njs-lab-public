@@ -1,0 +1,2 @@
+const s=n=>{let e=n.length;for(;e>1;){e--;let r=Math.floor(Math.random()*(e+1)),t=n[r];n[r]=n[e],n[e]=t}},g=(n,e,r)=>n.substr(0,e)+r+n.substr(e+r.length),u=(n,e=void 0)=>{e=e||"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";let r="";for(let t=0;t<n;t++){let o=Math.floor(Math.random()*e.length);r+=e.substring(o,o+1)}return r},a=n=>{let e=n.length,r=new Array(e);for(var t=0;t<e;++t)r[t]=t;return r.sort((o,l)=>n[o]<n[l]?-1:n[o]>n[l]?1:0),r};export{u as a,a as g,g as r,s};
+//# sourceMappingURL=GAUtility-BZEL-rGj.js.map

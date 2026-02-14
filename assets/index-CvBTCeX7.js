@@ -1,0 +1,2 @@
+import{mN as o,mP as s,mQ as i}from"./index-DXWTkgC4.js";const d=()=>o.jsx("div",{children:"Playground"});class a{constructor(e){this.divHost=document.getElementById(e);const t=document.createElement("div");this.divHost.appendChild(t),s.createRoot(t).render(i.createElement(d,{}))}destroy(){for(;this.divHost.lastElementChild;)this.divHost.removeChild(this.divHost.lastElementChild)}}export{a as Solution};
+//# sourceMappingURL=index-CvBTCeX7.js.map
