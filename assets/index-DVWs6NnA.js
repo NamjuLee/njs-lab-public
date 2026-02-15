@@ -1,0 +1,2 @@
+import{R as i}from"./RendererThree-1VYuCr1R.js";import{eH as a,a as t,aj as c,eF as m}from"./index-CD1L2QNH.js";import"./three.module-w8wdvABX.js";import"./OrbitControls-BkdFXS0m.js";class d extends i{constructor(s="main"){super(s),this.camera.position.set(0,50,50);const o=new a({color:16711680,linewidth:10}),e=[];e.push(new t(-10,0,0)),e.push(new t(0,10,0)),e.push(new t(10,0,0));const n=new c().setFromPoints(e),r=new m(n,o);this.scene.add(r),this.start()}update(s){}}export{d as Solution};
+//# sourceMappingURL=index-DVWs6NnA.js.map

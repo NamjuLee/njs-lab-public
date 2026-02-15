@@ -1,2 +1,0 @@
-import{D as a,F as t,G as h,H as l,J as d,q as o}from"./BindingNNA-BY3tQb2x.js";const y=r=>{let e=class extends r{initialize(){this.handles.add(l((()=>this.layer),"refresh",(i=>{this.doRefresh(i.dataChanged).catch((s=>{d(s)||o.getLogger(this.declaredClass).error(s)}))})),"RefreshableLayerView")}};return a([t()],e.prototype,"layer",void 0),e=a([h("esri.layers.mixins.RefreshableLayerView")],e),e};export{y as i};
-//# sourceMappingURL=RefreshableLayerView-D1ZYNJ3x.js.map
