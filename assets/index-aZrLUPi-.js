@@ -1,2 +1,1 @@
 class s{constructor(e){this.hostDiv=document.getElementById(e);const t=document.createElement("iframe");t.src="https://namjulee.github.io/njs-lab-public/njslab-legacy/?all",t.width="100%",t.height="100%",t.style.border="none",t.style.background="#fff",this.hostDiv.appendChild(t)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}export{s as Solution};
-//# sourceMappingURL=index-aZrLUPi-.js.map

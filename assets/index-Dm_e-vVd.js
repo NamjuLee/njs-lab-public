@@ -1,2 +1,1 @@
 class h{constructor(e){this.hostDiv=document.getElementById(e);const i="https://namjulee.github.io/3d-visualization-harvard-gsd.github.com/",t=document.createElement("iframe");t.src=i,t.width="100%",t.height="100%",t.style.border="none",t.style.background="#fff",this.hostDiv.appendChild(t)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}export{h as Solution};
-//# sourceMappingURL=index-Dm_e-vVd.js.map

@@ -1,2 +1,0 @@
-import{g as s}from"./index-Ch_F8l7K.js";import{d as a,r as c}from"./index-CJsAWMrg.js";function m(n,d,i={}){var t=s(n),r=s(d),e=a(r[1]-t[1]),h=a(r[0]-t[0]),M=a(t[1]),v=a(r[1]),o=Math.pow(Math.sin(e/2),2)+Math.pow(Math.sin(h/2),2)*Math.cos(M)*Math.cos(v);return c(2*Math.atan2(Math.sqrt(o),Math.sqrt(1-o)),i.units)}export{m as d};
-//# sourceMappingURL=index-D3tiLgyt.js.map

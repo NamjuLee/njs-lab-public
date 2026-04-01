@@ -1,2 +1,1 @@
 class o{constructor(e){this.hostDiv=document.getElementById(e);const t=document.createElement("iframe");t.src="https://namjulee.github.io/njs-lab-public/lab/project-slow-zone/project-slow-zone-viz?ui=0",t.width="100%",t.height="100%",t.style.background="#fff",t.style.border="none",this.hostDiv.appendChild(t)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}export{o as Solution};
-//# sourceMappingURL=index-D_lds8Yo.js.map

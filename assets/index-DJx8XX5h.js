@@ -1,2 +1,0 @@
-import"./index-CD1L2QNH.js";import{R as o}from"./RendererJSAPI-C-GNDRQv.js";class r extends o{constructor(e){super(e)}initPost(){this.line={x0:100,y0:200,x1:300,y1:100},this.start()}render(e){e.beginPath(),e.moveTo(this.line.x0,this.line.y0),e.lineTo(this.line.x1,this.line.y1),e.lineWidth=3,e.stroke()}mouseDown(e,i){}mouseUp(e,i){}mouseDrag(e,i){}mouseClick(e,i){}mouseMove(e,i){}keyDown(e){}}export{r as Solution};
-//# sourceMappingURL=index-DJx8XX5h.js.map

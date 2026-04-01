@@ -1,2 +1,1 @@
 import{O as t}from"./geometryEngineJSON-C6XGuusC.js";import"./geometryEngineBase-BEhzuDan.js";import"./json-B8kvu6eo.js";function i(r){return(0,t[r.operation])(...r.parameters)}export{i as executeGEOperation};
-//# sourceMappingURL=geometryEngineWorker-BWEHfvZt.js.map

@@ -1,2 +1,1 @@
 import{R as n}from"./RendererCanvas-C3cVjIxl.js";class o extends n{constructor(t){super(document.getElementById(t)),this.ctx.translate(this.ctx.canvas.width*.5,this.ctx.canvas.height*.5),this.init()}init(){this.start()}render(t){new s(0,0,0).render(t),new s(0,100,0).render(t),new s(100,0,0).render(t)}}class s{constructor(t,e,i){this.x=0,this.y=0,this.z=0,this.r=10,this.x=t,this.y=e,this.z=i}render(t){t.fillStyle="#333",t.beginPath(),t.arc(this.x,this.y,this.r,0,Math.PI*2),t.closePath(),t.fill()}}export{o as Solution};
-//# sourceMappingURL=workshop-vector-01-CZItc6tB.js.map
