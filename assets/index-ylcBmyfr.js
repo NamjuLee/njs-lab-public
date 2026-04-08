@@ -1,0 +1,1 @@
+import"./index-lLqZCLaY.js";import{R as r}from"./RendererJSAPI-BO1Z0MK4.js";class n extends r{constructor(o){super(o)}initPost(){}render(o){}mouseDown(o,e){}mouseUp(o,e){}mouseDrag(o,e){}mouseClick(o,e){}mouseMove(o,e){}keyDown(o){}}export{n as Solution};
