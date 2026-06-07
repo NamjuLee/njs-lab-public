@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "name": "seoul_3_7_12_centers",
+  "features": [
+    { "type": "Feature", "properties": { "name": "서울도심", "rank": "3도심", "type": "도심" }, "geometry": { "type": "Point", "coordinates": [126.9780, 37.5665] } },
+    { "type": "Feature", "properties": { "name": "강남", "rank": "3도심", "type": "도심" }, "geometry": { "type": "Point", "coordinates": [127.0276, 37.4979] } },
+    { "type": "Feature", "properties": { "name": "여의도·영등포", "rank": "3도심", "type": "도심" }, "geometry": { "type": "Point", "coordinates": [126.9245, 37.5219] } },
+
+    { "type": "Feature", "properties": { "name": "용산", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [126.9647, 37.5299] } },
+    { "type": "Feature", "properties": { "name": "청량리·왕십리", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [127.0370, 37.5802] } },
+    { "type": "Feature", "properties": { "name": "창동·상계", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [127.0471, 37.6543] } },
+    { "type": "Feature", "properties": { "name": "상암·수색", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [126.8897, 37.5794] } },
+    { "type": "Feature", "properties": { "name": "마곡", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [126.8320, 37.5600] } },
+    { "type": "Feature", "properties": { "name": "가산·대림", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [126.8913, 37.4816] } },
+    { "type": "Feature", "properties": { "name": "잠실", "rank": "7광역중심", "type": "광역중심" }, "geometry": { "type": "Point", "coordinates": [127.1002, 37.5133] } },
+
+    { "type": "Feature", "properties": { "name": "동대문", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [127.0090, 37.5710] } },
+    { "type": "Feature", "properties": { "name": "성수", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [127.0557, 37.5446] } },
+    { "type": "Feature", "properties": { "name": "망우", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [127.0928, 37.5993] } },
+    { "type": "Feature", "properties": { "name": "미아", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [127.0255, 37.6267] } },
+    { "type": "Feature", "properties": { "name": "연신내·불광", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [126.9208, 37.6184] } },
+    { "type": "Feature", "properties": { "name": "신촌", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [126.9368, 37.5551] } },
+    { "type": "Feature", "properties": { "name": "마포·공덕", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [126.9515, 37.5446] } },
+    { "type": "Feature", "properties": { "name": "목동", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [126.8750, 37.5260] } },
+    { "type": "Feature", "properties": { "name": "봉천", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [126.9410, 37.4826] } },
+    { "type": "Feature", "properties": { "name": "사당·이수", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [126.9816, 37.4865] } },
+    { "type": "Feature", "properties": { "name": "수서·문정", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [127.1227, 37.4874] } },
+    { "type": "Feature", "properties": { "name": "천호·길동", "rank": "12지역중심", "type": "지역중심" }, "geometry": { "type": "Point", "coordinates": [127.1238, 37.5380] } }
+  ]
+}
