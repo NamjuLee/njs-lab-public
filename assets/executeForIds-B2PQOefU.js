@@ -1,0 +1,1 @@
+import{dH as e,e2 as c,e3 as r,e4 as f}from"./BindingNNA-Cz6tilFk.js";async function d(n,t,o){const a=e(n);return c(a,r.from(t),{...o}).then((s=>s.data.count))}async function m(n,t,o){const a=e(n);return f(a,r.from(t),{...o}).then((s=>s.data.objectIds))}export{d as n,m as s};

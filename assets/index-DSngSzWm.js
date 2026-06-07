@@ -1,0 +1,1 @@
+import"./index-BcT8Qysm.js";import{R as s}from"./RendererJSAPI-BEstpCY-.js";class n extends s{constructor(o){super(o)}initPost(){this.polyline={},this.start()}render(o){}mouseDown(o,e){}mouseUp(o,e){}mouseDrag(o,e){}mouseClick(o,e){}mouseMove(o,e){}keyDown(o){}}export{n as Solution};
