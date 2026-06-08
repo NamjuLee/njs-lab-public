@@ -1,0 +1,1 @@
+import{hy as o,hN as c}from"./index-DucxYXYM.js";const i=96;function a(t,n){const e=t.extent,r=t.width,f=o(e&&e.spatialReference);return e&&r?e.width/r*f*c*i:0}function h(t,n){return t/(o(n)*c*i)}export{a as i,h as r};

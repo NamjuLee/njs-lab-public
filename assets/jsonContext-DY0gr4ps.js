@@ -1,1 +1,0 @@
-import{av as r,aw as e}from"./BindingNNA-Cz6tilFk.js";function a(t){return{origin:"portal-item",url:e(t.itemUrl),portal:t.portal||r.getDefault(),portalItem:t,readResourcePaths:[]}}function l(t){return{origin:"portal-item",messages:[],writtenProperties:[],url:t.itemUrl?e(t.itemUrl):null,portal:t.portal||r.getDefault(),portalItem:t}}export{a as e,l as o};
