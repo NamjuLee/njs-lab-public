@@ -1,1 +1,0 @@
-import"./index-DucxYXYM.js";import{R as s}from"./RendererJSAPI-C6hVda5M.js";class n extends s{constructor(o){super(o)}initPost(){this.polyline={},this.start()}render(o){}mouseDown(o,e){}mouseUp(o,e){}mouseDrag(o,e){}mouseClick(o,e){}mouseMove(o,e){}keyDown(o){}}export{n as Solution};
