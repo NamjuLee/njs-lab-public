@@ -19,6 +19,6 @@
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2024-foss4g-korea/2024-foss4g-korea.png)
 
-----
-[slide](https://docs.google.com/presentation/d/1OBy0uTyahZeRwe2GOi7xhQ9cMeNtUT3x5_Rtm5tTtKs)
+---
 
+[slide](https://docs.google.com/presentation/d/1OBy0uTyahZeRwe2GOi7xhQ9cMeNtUT3x5_Rtm5tTtKs)
