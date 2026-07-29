@@ -4,13 +4,28 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="/njs-lab-public/favicon.ico" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta name="theme-color" content="#000000" />
+		<meta name="theme-color" content="#ededed" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 		<link rel="apple-touch-icon" href="/logo192.png" />
+		<script>
+			(function () {
+				try {
+					var savedTheme = localStorage.getItem('njslab-theme');
+					var theme = savedTheme === 'light' || savedTheme === 'dark'
+						? savedTheme
+						: (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+					document.documentElement.dataset.theme = theme;
+					document.documentElement.style.colorScheme = theme;
+					document.querySelector('meta[name="theme-color"]').setAttribute('content', theme === 'dark' ? '#232323' : '#ededed');
+				} catch (error) {
+					document.documentElement.dataset.theme = 'light';
+				}
+			})();
+		</script>
 
 		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4814129324525420" crossorigin="anonymous"></script>
 
@@ -27,8 +42,8 @@
 
 		<link rel="manifest" href="/njs-lab-public/manifest.json" />
 		<title>ⓝ NJS Labs</title>
-		<script type="module" crossorigin src="/njs-lab-public/assets/index-BchXL9Ci.js"></script>
-		<link rel="stylesheet" crossorigin href="/njs-lab-public/assets/index-qaDE4Fnn.css">
+		<script type="module" crossorigin src="/njs-lab-public/assets/index-BpVWQNWp.js"></script>
+		<link rel="stylesheet" crossorigin href="/njs-lab-public/assets/index-ZoyNH_rv.css">
 	</head>
 	<body>
 		<noscript>You need to enable JavaScript to run this app.</noscript>
