@@ -1,1 +1,0 @@
-import"./index-D8DJpnOO.js";import{R as r}from"./RendererJSAPI-D3hECksR.js";class n extends r{constructor(o){super(o)}initPost(){}render(o){}mouseDown(o,e){}mouseUp(o,e){}mouseDrag(o,e){}mouseClick(o,e){}mouseMove(o,e){}keyDown(o){}}export{n as Solution};

@@ -1,1 +1,0 @@
-import{R as r}from"./RendererThree-C3X8K5Mg.js";import{g as t,h as n}from"./index-BpVWQNWp.js";import"./three.module-D6TrLI86.js";import"./OrbitControls-CGVvRFuT.js";class i extends r{constructor(e="main"){super(e),new t,new n(50,1,0,500),document.createElement("div"),document.createElement("div")}update(e){}}export{i as Solution};

@@ -1,1 +1,0 @@
-import{R as e}from"./RendererThree-CqmmBTTP.js";import"./index-D8DJpnOO.js";import"./three.module-DMlb7QQq.js";import"./OrbitControls-C9Dyoewa.js";class m extends e{constructor(r){super(r)}render(r){}}export{m as Solution};
