@@ -1,1 +1,0 @@
-import{mX as r,nm as e,nn as c,no as f}from"./index-CFD18EaN.js";async function u(n,t,o){const a=r(n);return e(a,c.from(t),{...o}).then((s=>s.data.count))}async function p(n,t,o){const a=r(n);return f(a,c.from(t),{...o}).then((s=>s.data.objectIds))}export{u as n,p as s};

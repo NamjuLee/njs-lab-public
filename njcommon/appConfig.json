@@ -18,6 +18,7 @@
 		}
 	},
 	"copyright": "© 2004 - 2026 NJSTUDIO All Rights Reserved",
+	"accentColor": "#2ba8f1",
 	"link": [
 		{ "word": "1,300", "url": "njs-lab-public/code-for-design" },
 		{ "word": "150", "url": "njs-lab-public/writing" },
@@ -29,7 +30,6 @@
 		"dark": {
 			"mainFontColor": "rgb(190, 190, 190)",
 			"mainFontColorHighlight": "rgb(245, 245, 245)",
-			"mainHoverColor": "#00bdbd",
 			"mainBGColor": "#232323",
 			"secondBGColor": "rgb(60,60,60)",
 			"scrollbar": "#777777"
@@ -37,7 +37,6 @@
 		"light": {
 			"mainFontColor": "rgb(100, 100, 100)",
 			"mainFontColorHighlight": "rgb(10, 10, 10)",
-			"mainHoverColor": "#00bdbd",
 			"mainBGColor": "#ededed",
 			"secondBGColor": "#fafafa",
 			"scrollbar": "#777777"
