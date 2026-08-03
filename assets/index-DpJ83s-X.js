@@ -1,0 +1,1 @@
+import"./index-B2mqmcVC.js";import{R as s}from"./RendererJSAPI-I-1IHA7y.js";class n extends s{constructor(o){super(o)}initPost(){this.polyline={},this.start()}render(o){}mouseDown(o,e){}mouseUp(o,e){}mouseDrag(o,e){}mouseClick(o,e){}mouseMove(o,e){}keyDown(o){}}export{n as Solution};

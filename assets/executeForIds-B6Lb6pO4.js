@@ -1,1 +1,0 @@
-import{n0 as r,nr as e,ns as c,nt as f}from"./index-BbnlkhC2.js";async function m(n,t,o){const s=r(n);return e(s,c.from(t),{...o}).then((a=>a.data.count))}async function p(n,t,o){const s=r(n);return f(s,c.from(t),{...o}).then((a=>a.data.objectIds))}export{m as n,p as s};
