@@ -1,1 +1,0 @@
-import{h$ as r,i0 as e}from"./index-B2mqmcVC.js";function l(t){return{origin:"portal-item",url:e(t.itemUrl),portal:t.portal||r.getDefault(),portalItem:t,readResourcePaths:[]}}function a(t){return{origin:"portal-item",messages:[],writtenProperties:[],url:t.itemUrl?e(t.itemUrl):null,portal:t.portal||r.getDefault(),portalItem:t}}export{l as e,a as o};
