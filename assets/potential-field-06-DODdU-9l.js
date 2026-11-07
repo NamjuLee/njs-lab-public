@@ -1,0 +1,1 @@
+import{N as r}from"./NavigationController-Ds4un6tv.js";import"./style.module-CUkkUKVG.js";import"./GridPathFollower-0JlCJq-a.js";import"./PotentialGrid-Dt25vsXV.js";import"./index-8f3Xf3xx.js";class n extends r{constructor(o){super(o,6)}}export{n as Solution};

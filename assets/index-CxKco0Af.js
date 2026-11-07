@@ -1,0 +1,1 @@
+import{d as s}from"./index-C-uUBsBN.js";import{g as i,p as f,m as a}from"./index-D1YPs7dk.js";function p(t){const e=[];if(i(t,n=>{e.push(n.coordinates)}),e.length<2)throw new Error("Must have at least two features");const o=t.features[0].properties||{},r=s(e[0],...e.slice(1));return r.length===0?null:r.length===1?f(r[0],o):a(r,o)}export{p as d};

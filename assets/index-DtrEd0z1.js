@@ -1,0 +1,1 @@
+import"./index-8f3Xf3xx.js";import{R as r}from"./RendererJSAPI-BJAWP35E.js";class n extends r{constructor(o){super(o)}initPost(){}render(o){}mouseDown(o,e){}mouseUp(o,e){}mouseDrag(o,e){}mouseClick(o,e){}mouseMove(o,e){}keyDown(o){}}export{n as Solution};

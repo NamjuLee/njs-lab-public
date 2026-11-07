@@ -1,0 +1,1 @@
+import{u as s}from"./index-C-uUBsBN.js";import{g as i,p as u,m as l}from"./index-D1YPs7dk.js";function m(n,r={}){const e=[];if(i(n,t=>{e.push(t.coordinates)}),e.length<2)throw new Error("Must have at least 2 geometries");const o=s(e[0],...e.slice(1));return o.length===0?null:o.length===1?u(o[0],r.properties):l(o,r.properties)}export{m as u};
